@@ -1,0 +1,301 @@
+Mission_ID,Team_Leader,Avenger1,Avenger2,Avenger3,Location,Enemy,Success
+1,Iron Man,Captain America,Thor,Black Widow,New York City,Loki,Yes
+2,Captain America,Hulk,Iron Man,Black Widow,Washington D.C.,Ultron,No
+3,Thor,Hawkeye,Hulk,Iron Man,London,Thanos,Yes
+4,Black Widow,Thor,Hawkeye,Iron Man,Tokyo,Hydra,Yes
+5,Iron Man,Hulk,Captain Marvel,Thor,Paris,Chitauri,No
+6,Captain America,Black Widow,Hawkeye,Iron Man,Berlin,Red Skull,Yes
+7,Thor,Iron Man,Hulk,Captain America,Seoul,AIM,Yes
+8,Hawkeye,Black Widow,Thor,Captain America,Rio de Janeiro,Loki,No
+9,Black Widow,Captain America,Thor,Iron Man,Moscow,Thanos,Yes
+10,Hulk,Iron Man,Thor,Captain America,Sydney,Hydra,Yes
+11,Hawkeye,Black Widow,Thor,Captain America,Shanghai,AIM,Yes
+12,Iron Man,Captain America,Thor,Black Widow,Mumbai,Hydra,No
+13,Captain America,Hulk,Iron Man,Black Widow,Buenos Aires,Red Skull,Yes
+14,Thor,Hawkeye,Hulk,Iron Man,Seoul,Thanos,Yes
+15,Black Widow,Thor,Hawkeye,Iron Man,Tokyo,Chitauri,No
+16,Iron Man,Hulk,Captain Marvel,Thor,Paris,Loki,Yes
+17,Captain America,Black Widow,Hawkeye,Iron Man,Berlin,Ultron,No
+18,Thor,Iron Man,Hulk,Captain America,Seoul,Hydra,Yes
+19,Hawkeye,Black Widow,Thor,Captain America,Rio de Janeiro,Red Skull,No
+20,Black Widow,Captain America,Thor,Iron Man,Moscow,AIM,Yes
+21,Hulk,Iron Man,Thor,Captain America,Sydney,Thanos,Yes
+22,Hawkeye,Black Widow,Thor,Captain America,Shanghai,Hydra,Yes
+23,Iron Man,Captain America,Thor,Black Widow,Mumbai,Chitauri,No
+24,Captain America,Hulk,Iron Man,Black Widow,Buenos Aires,Loki,Yes
+25,Thor,Hawkeye,Hulk,Iron Man,Seoul,Red Skull,No
+26,Black Widow,Thor,Hawkeye,Iron Man,Tokyo,Ultron,Yes
+27,Iron Man,Hulk,Captain Marvel,Thor,Paris,Hydra,No
+28,Captain America,Black Widow,Hawkeye,Iron Man,Berlin,Thanos,Yes
+29,Thor,Iron Man,Hulk,Captain America,Seoul,Loki,Yes
+30,Hawkeye,Black Widow,Thor,Captain America,Rio de Janeiro,AIM,No
+31,Black Widow,Captain America,Thor,Iron Man,Moscow,Red Skull,Yes
+32,Hulk,Iron Man,Thor,Captain America,Sydney,Chitauri,Yes
+33,Hawkeye,Black Widow,Thor,Captain America,Shanghai,Ultron,No
+34,Iron Man,Captain America,Thor,Black Widow,Mumbai,Hydra,Yes
+35,Captain America,Hulk,Iron Man,Black Widow,Buenos Aires,Thanos,Yes
+36,Thor,Hawkeye,Hulk,Iron Man,Seoul,Chitauri,No
+37,Black Widow,Thor,Hawkeye,Iron Man,Tokyo,Red Skull,Yes
+38,Iron Man,Hulk,Captain Marvel,Thor,Paris,AIM,No
+39,Captain America,Black Widow,Hawkeye,Iron Man,Berlin,Loki,Yes
+40,Thor,Iron Man,Hulk,Captain America,Seoul,Hydra,No
+41,Hawkeye,Black Widow,Thor,Captain America,Rio de Janeiro,Ultron,Yes
+42,Black Widow,Captain America,Thor,Iron Man,Moscow,Chitauri,No
+43,Hulk,Iron Man,Thor,Captain America,Sydney,Red Skull,Yes
+44,Hawkeye,Black Widow,Thor,Captain America,Shanghai,Loki,Yes
+45,Iron Man,Captain America,Thor,Black Widow,Mumbai,Ultron,No
+46,Captain America,Hulk,Iron Man,Black Widow,Buenos Aires,Hydra,Yes
+47,Thor,Hawkeye,Hulk,Iron Man,Seoul,Thanos,Yes
+48,Black Widow,Thor,Hawkeye,Iron Man,Tokyo,AIM,No
+49,Iron Man,Hulk,Captain Marvel,Thor,Paris,Red Skull,Yes
+50,Captain America,Black Widow,Hawkeye,Iron Man,Berlin,Chitauri,Yes
+51,Thor,Iron Man,Hulk,Captain America,Seoul,Ultron,No
+52,Hawkeye,Black Widow,Thor,Captain America,Rio de Janeiro,Loki,Yes
+53,Black Widow,Captain America,Thor,Iron Man,Moscow,Hydra,Yes
+54,Hulk,Iron Man,Thor,Captain America,Sydney,Thanos,No
+55,Hawkeye,Black Widow,Thor,Captain America,Shanghai,Chitauri,Yes
+56,Iron Man,Captain America,Thor,Black Widow,Mumbai,AIM,Yes
+57,Captain America,Hulk,Iron Man,Black Widow,Buenos Aires,Ultron,No
+58,Thor,Hawkeye,Hulk,Iron Man,Seoul,Red Skull,Yes
+59,Black Widow,Thor,Hawkeye,Iron Man,Tokyo,Hydra,Yes
+60,Iron Man,Hulk,Captain Marvel,Thor,Paris,Thanos,Yes
+61,Captain America,Black Widow,Hawkeye,Iron Man,Berlin,Ultron,No
+62,Thor,Iron Man,Hulk,Captain America,Seoul,Chitauri,Yes
+63,Hawkeye,Black Widow,Thor,Captain America,Rio de Janeiro,Loki,No
+64,Black Widow,Captain America,Thor,Iron Man,Moscow,Hydra,Yes
+65,Hulk,Iron Man,Thor,Captain America,Sydney,Red Skull,Yes
+66,Hawkeye,Black Widow,Thor,Captain America,Shanghai,Ultron,Yes
+67,Iron Man,Captain America,Thor,Black Widow,Mumbai,Chitauri,No
+68,Captain America,Hulk,Iron Man,Black Widow,Buenos Aires,Loki,Yes
+69,Thor,Hawkeye,Hulk,Iron Man,Seoul,Hydra,Yes
+70,Black Widow,Thor,Hawkeye,Iron Man,Tokyo,Thanos,No
+71,Iron Man,Hulk,Captain Marvel,Thor,Paris,Ultron,Yes
+72,Captain America,Black Widow,Hawkeye,Iron Man,Berlin,Red Skull,Yes
+73,Thor,Iron Man,Hulk,Captain America,Seoul,AIM,No
+74,Hawkeye,Black Widow,Thor,Captain America,Rio de Janeiro,Chitauri,Yes
+75,Black Widow,Captain America,Thor,Iron Man,Moscow,Loki,No
+76,Hulk,Iron Man,Thor,Captain America,Sydney,Hydra,Yes
+77,Hawkeye,Black Widow,Thor,Captain America,Shanghai,Red Skull,Yes
+78,Iron Man,Captain America,Thor,Black Widow,Mumbai,AIM,Yes
+79,Captain America,Hulk,Iron Man,Black Widow,Buenos Aires,Chitauri,Yes
+80,Thor,Hawkeye,Hulk,Iron Man,Seoul,Ultron,No
+81,Black Widow,Thor,Hawkeye,Iron Man,Tokyo,Hydra,Yes
+82,Iron Man,Hulk,Captain Marvel,Thor,Paris,Thanos,Yes
+83,Captain America,Black Widow,Hawkeye,Iron Man,Berlin,AIM,No
+84,Thor,Iron Man,Hulk,Captain America,Seoul,Loki,Yes
+85,Hawkeye,Black Widow,Thor,Captain America,Rio de Janeiro,Chitauri,Yes
+86,Black Widow,Captain America,Thor,Iron Man,Moscow,Red Skull,No
+87,Hulk,Iron Man,Thor,Captain America,Sydney,Hydra,Yes
+88,Hawkeye,Black Widow,Thor,Captain America,Shanghai,Ultron,No
+89,Iron Man,Captain America,Thor,Black Widow,Mumbai,AIM,Yes
+90,Captain America,Hulk,Iron Man,Black Widow,Buenos Aires,Chitauri,Yes
+91,Thor,Hawkeye,Hulk,Iron Man,Seoul,Red Skull,No
+92,Black Widow,Thor,Hawkeye,Iron Man,Tokyo,Hydra,Yes
+93,Iron Man,Hulk,Captain Marvel,Thor,Paris,Thanos,Yes
+94,Captain America,Black Widow,Hawkeye,Iron Man,Berlin,AIM,No
+95,Thor,Iron Man,Hulk,Captain America,Seoul,Loki,Yes
+96,Hawkeye,Black Widow,Thor,Captain America,Rio de Janeiro,Chitauri,Yes
+97,Black Widow,Captain America,Thor,Iron Man,Moscow,Ultron,Yes
+98,Hulk,Iron Man,Thor,Captain America,Sydney,Hydra,No
+99,Hawkeye,Black Widow,Thor,Captain America,Shanghai,Red Skull,Yes
+100,Iron Man,Captain America,Thor,Black Widow,Mumbai,Ultron,No
+101,Thor,Iron Man,Hulk,Captain America,Seoul,AIM,No
+102,Hawkeye,Black Widow,Thor,Captain America,Rio de Janeiro,Chitauri,Yes
+103,Black Widow,Captain America,Thor,Iron Man,Moscow,Red Skull,No
+104,Hulk,Iron Man,Thor,Captain America,Sydney,Hydra,Yes
+105,Hawkeye,Black Widow,Thor,Captain America,Shanghai,Ultron,No
+106,Iron Man,Captain America,Thor,Black Widow,Mumbai,AIM,Yes
+107,Captain America,Hulk,Iron Man,Black Widow,Buenos Aires,Chitauri,Yes
+108,Thor,Hawkeye,Hulk,Iron Man,Seoul,Red Skull,No
+109,Black Widow,Thor,Hawkeye,Iron Man,Tokyo,Hydra,Yes
+110,Iron Man,Hulk,Captain Marvel,Thor,Paris,Thanos,Yes
+111,Captain America,Black Widow,Hawkeye,Iron Man,Berlin,AIM,No
+112,Thor,Iron Man,Hulk,Captain America,Seoul,Loki,Yes
+113,Hawkeye,Black Widow,Thor,Captain America,Rio de Janeiro,Chitauri,Yes
+114,Black Widow,Captain America,Thor,Iron Man,Moscow,Red Skull,No
+115,Hulk,Iron Man,Thor,Captain America,Sydney,Hydra,Yes
+116,Hawkeye,Black Widow,Thor,Captain America,Shanghai,Ultron,No
+117,Iron Man,Captain America,Thor,Black Widow,Mumbai,AIM,Yes
+118,Captain America,Hulk,Iron Man,Black Widow,Buenos Aires,Chitauri,Yes
+119,Thor,Hawkeye,Hulk,Iron Man,Seoul,Red Skull,No
+120,Black Widow,Thor,Hawkeye,Iron Man,Tokyo,Hydra,Yes
+121,Iron Man,Hulk,Captain Marvel,Thor,Paris,Thanos,Yes
+122,Captain America,Black Widow,Hawkeye,Iron Man,Berlin,AIM,No
+123,Thor,Iron Man,Hulk,Captain America,Seoul,Loki,Yes
+124,Hawkeye,Black Widow,Thor,Captain America,Rio de Janeiro,Chitauri,Yes
+125,Black Widow,Captain America,Thor,Iron Man,Moscow,Red Skull,No
+126,Hulk,Iron Man,Thor,Captain America,Sydney,Hydra,Yes
+127,Hawkeye,Black Widow,Thor,Captain America,Shanghai,Ultron,No
+128,Iron Man,Captain America,Thor,Black Widow,Mumbai,AIM,Yes
+129,Captain America,Hulk,Iron Man,Black Widow,Buenos Aires,Chitauri,Yes
+130,Thor,Hawkeye,Hulk,Iron Man,Seoul,Red Skull,No
+131,Black Widow,Thor,Hawkeye,Iron Man,Tokyo,Hydra,Yes
+132,Iron Man,Hulk,Captain Marvel,Thor,Paris,Thanos,Yes
+133,Captain America,Black Widow,Hawkeye,Iron Man,Berlin,AIM,No
+134,Thor,Iron Man,Hulk,Captain America,Seoul,Loki,Yes
+135,Hawkeye,Black Widow,Thor,Captain America,Rio de Janeiro,Chitauri,Yes
+136,Black Widow,Captain America,Thor,Iron Man,Moscow,Red Skull,No
+137,Hulk,Iron Man,Thor,Captain America,Sydney,Hydra,Yes
+138,Hawkeye,Black Widow,Thor,Captain America,Shanghai,Ultron,No
+139,Iron Man,Captain America,Thor,Black Widow,Mumbai,AIM,Yes
+140,Captain America,Hulk,Iron Man,Black Widow,Buenos Aires,Chitauri,Yes
+141,Thor,Hawkeye,Hulk,Iron Man,Seoul,Red Skull,No
+142,Black Widow,Thor,Hawkeye,Iron Man,Tokyo,Hydra,Yes
+143,Iron Man,Hulk,Captain Marvel,Thor,Paris,Thanos,Yes
+144,Captain America,Black Widow,Hawkeye,Iron Man,Berlin,AIM,No
+145,Thor,Iron Man,Hulk,Captain America,Seoul,Loki,Yes
+146,Hawkeye,Black Widow,Thor,Captain America,Rio de Janeiro,Chitauri,Yes
+147,Black Widow,Captain America,Thor,Iron Man,Moscow,Red Skull,No
+148,Hulk,Iron Man,Thor,Captain America,Sydney,Hydra,Yes
+149,Hawkeye,Black Widow,Thor,Captain America,Shanghai,Ultron,No
+150,Iron Man,Captain America,Thor,Black Widow,Mumbai,AIM,Yes
+151,Captain America,Hulk,Iron Man,Black Widow,Buenos Aires,Chitauri,Yes
+152,Thor,Hawkeye,Hulk,Iron Man,Seoul,Red Skull,No
+153,Black Widow,Thor,Hawkeye,Iron Man,Tokyo,Hydra,Yes
+154,Iron Man,Hulk,Captain Marvel,Thor,Paris,Thanos,Yes
+155,Captain America,Black Widow,Hawkeye,Iron Man,Berlin,AIM,No
+156,Thor,Iron Man,Hulk,Captain America,Seoul,Loki,Yes
+157,Hawkeye,Black Widow,Thor,Captain America,Rio de Janeiro,Chitauri,Yes
+158,Black Widow,Captain America,Thor,Iron Man,Moscow,Red Skull,No
+159,Hulk,Iron Man,Thor,Captain America,Sydney,Hydra,Yes
+160,Hawkeye,Black Widow,Thor,Captain America,Shanghai,Ultron,No
+161,Iron Man,Captain America,Thor,Black Widow,Mumbai,AIM,Yes
+162,Captain America,Hulk,Iron Man,Black Widow,Buenos Aires,Chitauri,Yes
+163,Thor,Hawkeye,Hulk,Iron Man,Seoul,Red Skull,No
+164,Black Widow,Thor,Hawkeye,Iron Man,Tokyo,Hydra,Yes
+165,Iron Man,Hulk,Captain Marvel,Thor,Paris,Thanos,Yes
+166,Captain America,Black Widow,Hawkeye,Iron Man,Berlin,AIM,No
+167,Thor,Iron Man,Hulk,Captain America,Seoul,Loki,Yes
+168,Hawkeye,Black Widow,Thor,Captain America,Rio de Janeiro,Chitauri,Yes
+169,Black Widow,Captain America,Thor,Iron Man,Moscow,Red Skull,No
+170,Hulk,Iron Man,Thor,Captain America,Sydney,Hydra,Yes
+171,Hawkeye,Black Widow,Thor,Captain America,Shanghai,Ultron,No
+172,Iron Man,Captain America,Thor,Black Widow,Mumbai,AIM,Yes
+173,Captain America,Hulk,Iron Man,Black Widow,Buenos Aires,Chitauri,Yes
+174,Thor,Hawkeye,Hulk,Iron Man,Seoul,Red Skull,No
+175,Black Widow,Thor,Hawkeye,Iron Man,Tokyo,Hydra,Yes
+176,Iron Man,Hulk,Captain Marvel,Thor,Paris,Thanos,Yes
+177,Captain America,Black Widow,Hawkeye,Iron Man,Berlin,AIM,No
+178,Thor,Iron Man,Hulk,Captain America,Seoul,Loki,Yes
+179,Hawkeye,Black Widow,Thor,Captain America,Rio de Janeiro,Chitauri,Yes
+180,Black Widow,Captain America,Thor,Iron Man,Moscow,Red Skull,No
+181,Hulk,Iron Man,Thor,Captain America,Sydney,Hydra,Yes
+182,Hawkeye,Black Widow,Thor,Captain America,Shanghai,Ultron,No
+183,Iron Man,Captain America,Thor,Black Widow,Mumbai,AIM,Yes
+184,Captain America,Hulk,Iron Man,Black Widow,Buenos Aires,Chitauri,Yes
+185,Thor,Hawkeye,Hulk,Iron Man,Seoul,Red Skull,No
+186,Black Widow,Thor,Hawkeye,Iron Man,Tokyo,Hydra,Yes
+187,Iron Man,Hulk,Captain Marvel,Thor,Paris,Thanos,Yes
+188,Captain America,Black Widow,Hawkeye,Iron Man,Berlin,AIM,No
+189,Thor,Iron Man,Hulk,Captain America,Seoul,Loki,Yes
+190,Hawkeye,Black Widow,Thor,Captain America,Rio de Janeiro,Chitauri,Yes
+191,Black Widow,Captain America,Thor,Iron Man,Moscow,Red Skull,No
+192,Hulk,Iron Man,Thor,Captain America,Sydney,Hydra,Yes
+193,Hawkeye,Black Widow,Thor,Captain America,Shanghai,Ultron,No
+194,Iron Man,Captain America,Thor,Black Widow,Mumbai,AIM,Yes
+195,Captain America,Hulk,Iron Man,Black Widow,Buenos Aires,Chitauri,Yes
+196,Thor,Hawkeye,Hulk,Iron Man,Seoul,Red Skull,No
+197,Black Widow,Thor,Hawkeye,Iron Man,Tokyo,Hydra,Yes
+198,Iron Man,Hulk,Captain Marvel,Thor,Paris,Thanos,Yes
+199,Captain America,Black Widow,Hawkeye,Iron Man,Berlin,AIM,No
+200,Thor,Iron Man,Hulk,Captain America,Seoul,Loki,Yes
+201,Hawkeye,Black Widow,Thor,Captain America,Rio de Janeiro,AIM,Yes
+202,Black Widow,Captain America,Thor,Iron Man,Moscow,Hydra,No
+203,Hulk,Iron Man,Thor,Captain America,Sydney,Ultron,Yes
+204,Hawkeye,Black Widow,Thor,Captain America,Shanghai,Loki,No
+205,Iron Man,Captain America,Thor,Black Widow,Mumbai,Chitauri,Yes
+206,Captain America,Hulk,Iron Man,Black Widow,Buenos Aires,Red Skull,Yes
+207,Thor,Hawkeye,Hulk,Iron Man,Seoul,AIM,No
+208,Black Widow,Thor,Hawkeye,Iron Man,Tokyo,Hydra,Yes
+209,Iron Man,Hulk,Captain Marvel,Thor,Paris,Thanos,Yes
+210,Captain America,Black Widow,Hawkeye,Iron Man,Berlin,AIM,No
+211,Thor,Iron Man,Hulk,Captain America,Seoul,Loki,Yes
+212,Hawkeye,Black Widow,Thor,Captain America,Rio de Janeiro,AIM,Yes
+213,Black Widow,Captain America,Thor,Iron Man,Moscow,Hydra,No
+214,Hulk,Iron Man,Thor,Captain America,Sydney,Ultron,Yes
+215,Hawkeye,Black Widow,Thor,Captain America,Shanghai,Loki,No
+216,Iron Man,Captain America,Thor,Black Widow,Mumbai,Chitauri,Yes
+217,Captain America,Hulk,Iron Man,Black Widow,Buenos Aires,Red Skull,Yes
+218,Thor,Hawkeye,Hulk,Iron Man,Seoul,AIM,No
+219,Black Widow,Thor,Hawkeye,Iron Man,Tokyo,Hydra,Yes
+220,Iron Man,Hulk,Captain Marvel,Thor,Paris,Thanos,Yes
+221,Captain America,Black Widow,Hawkeye,Iron Man,Berlin,AIM,No
+222,Thor,Iron Man,Hulk,Captain America,Seoul,Loki,Yes
+223,Hawkeye,Black Widow,Thor,Captain America,Rio de Janeiro,AIM,Yes
+224,Black Widow,Captain America,Thor,Iron Man,Moscow,Hydra,No
+225,Hulk,Iron Man,Thor,Captain America,Sydney,Ultron,Yes
+226,Hawkeye,Black Widow,Thor,Captain America,Shanghai,Loki,No
+227,Iron Man,Captain America,Thor,Black Widow,Mumbai,Chitauri,Yes
+228,Captain America,Hulk,Iron Man,Black Widow,Buenos Aires,Red Skull,Yes
+229,Thor,Hawkeye,Hulk,Iron Man,Seoul,AIM,No
+230,Black Widow,Thor,Hawkeye,Iron Man,Tokyo,Hydra,Yes
+231,Iron Man,Hulk,Captain Marvel,Thor,Paris,Thanos,Yes
+232,Captain America,Black Widow,Hawkeye,Iron Man,Berlin,AIM,No
+233,Thor,Iron Man,Hulk,Captain America,Seoul,Loki,Yes
+234,Hawkeye,Black Widow,Thor,Captain America,Rio de Janeiro,AIM,Yes
+235,Black Widow,Captain America,Thor,Iron Man,Moscow,Hydra,No
+236,Hulk,Iron Man,Thor,Captain America,Sydney,Ultron,Yes
+237,Hawkeye,Black Widow,Thor,Captain America,Shanghai,Loki,No
+238,Iron Man,Captain America,Thor,Black Widow,Mumbai,Chitauri,Yes
+239,Captain America,Hulk,Iron Man,Black Widow,Buenos Aires,Red Skull,Yes
+240,Thor,Hawkeye,Hulk,Iron Man,Seoul,AIM,No
+241,Black Widow,Thor,Hawkeye,Iron Man,Tokyo,Hydra,Yes
+242,Iron Man,Hulk,Captain Marvel,Thor,Paris,Thanos,Yes
+243,Captain America,Black Widow,Hawkeye,Iron Man,Berlin,AIM,No
+244,Thor,Iron Man,Hulk,Captain America,Seoul,Loki,Yes
+245,Hawkeye,Black Widow,Thor,Captain America,Rio de Janeiro,AIM,Yes
+246,Black Widow,Captain America,Thor,Iron Man,Moscow,Hydra,No
+247,Hulk,Iron Man,Thor,Captain America,Sydney,Ultron,Yes
+248,Hawkeye,Black Widow,Thor,Captain America,Shanghai,Loki,No
+249,Iron Man,Captain America,Thor,Black Widow,Mumbai,Chitauri,Yes
+250,Captain America,Hulk,Iron Man,Black Widow,Buenos Aires,Red Skull,Yes
+251,Thor,Hawkeye,Hulk,Iron Man,Seoul,AIM,No
+252,Black Widow,Thor,Hawkeye,Iron Man,Tokyo,Hydra,Yes
+253,Iron Man,Hulk,Captain Marvel,Thor,Paris,Thanos,Yes
+254,Captain America,Black Widow,Hawkeye,Iron Man,Berlin,AIM,No
+255,Thor,Iron Man,Hulk,Captain America,Seoul,Loki,Yes
+256,Hawkeye,Black Widow,Thor,Captain America,Rio de Janeiro,AIM,Yes
+257,Black Widow,Captain America,Thor,Iron Man,Moscow,Hydra,No
+258,Hulk,Iron Man,Thor,Captain America,Sydney,Ultron,Yes
+259,Hawkeye,Black Widow,Thor,Captain America,Shanghai,Loki,No
+260,Iron Man,Captain America,Thor,Black Widow,Mumbai,Chitauri,Yes
+261,Captain America,Hulk,Iron Man,Black Widow,Buenos Aires,Red Skull,Yes
+262,Thor,Hawkeye,Hulk,Iron Man,Seoul,AIM,No
+263,Black Widow,Thor,Hawkeye,Iron Man,Tokyo,Hydra,Yes
+264,Iron Man,Hulk,Captain Marvel,Thor,Paris,Thanos,Yes
+265,Captain America,Black Widow,Hawkeye,Iron Man,Berlin,AIM,No
+266,Thor,Iron Man,Hulk,Captain America,Seoul,Loki,Yes
+267,Hawkeye,Black Widow,Thor,Captain America,Rio de Janeiro,AIM,Yes
+268,Black Widow,Captain America,Thor,Iron Man,Moscow,Hydra,No
+269,Hulk,Iron Man,Thor,Captain America,Sydney,Ultron,Yes
+270,Hawkeye,Black Widow,Thor,Captain America,Shanghai,Loki,No
+271,Iron Man,Captain America,Thor,Black Widow,Mumbai,Chitauri,Yes
+272,Captain America,Hulk,Iron Man,Black Widow,Buenos Aires,Red Skull,Yes
+273,Thor,Hawkeye,Hulk,Iron Man,Seoul,AIM,No
+274,Black Widow,Thor,Hawkeye,Iron Man,Tokyo,Hydra,Yes
+275,Iron Man,Hulk,Captain Marvel,Thor,Paris,Thanos,Yes
+276,Captain America,Black Widow,Hawkeye,Iron Man,Berlin,AIM,No
+277,Thor,Iron Man,Hulk,Captain America,Seoul,Loki,Yes
+278,Hawkeye,Black Widow,Thor,Captain America,Rio de Janeiro,AIM,Yes
+279,Black Widow,Captain America,Thor,Iron Man,Moscow,Hydra,No
+280,Hulk,Iron Man,Thor,Captain America,Sydney,Ultron,Yes
+281,Hawkeye,Black Widow,Thor,Captain America,Shanghai,Loki,No
+282,Iron Man,Captain America,Thor,Black Widow,Mumbai,Chitauri,Yes
+283,Captain America,Hulk,Iron Man,Black Widow,Buenos Aires,Red Skull,Yes
+284,Thor,Hawkeye,Hulk,Iron Man,Seoul,AIM,No
+285,Black Widow,Thor,Hawkeye,Iron Man,Tokyo,Hydra,Yes
+286,Iron Man,Hulk,Captain Marvel,Thor,Paris,Thanos,Yes
+287,Captain America,Black Widow,Hawkeye,Iron Man,Berlin,AIM,No
+288,Thor,Iron Man,Hulk,Captain America,Seoul,Loki,Yes
+289,Hawkeye,Black Widow,Thor,Captain America,Rio de Janeiro,AIM,Yes
+290,Black Widow,Captain America,Thor,Iron Man,Moscow,Hydra,No
+291,Hulk,Iron Man,Thor,Captain America,Sydney,Ultron,Yes
+292,Hawkeye,Black Widow,Thor,Captain America,Shanghai,Loki,No
+293,Iron Man,Captain America,Thor,Black Widow,Mumbai,Chitauri,Yes
+294,Captain America,Hulk,Iron Man,Black Widow,Buenos Aires,Red Skull,Yes
+295,Thor,Hawkeye,Hulk,Iron Man,Seoul,AIM,No
+296,Black Widow,Thor,Hawkeye,Iron Man,Tokyo,Hydra,Yes
+297,Iron Man,Hulk,Captain Marvel,Thor,Paris,Thanos,Yes
+298,Captain America,Black Widow,Hawkeye,Iron Man,Berlin,AIM,No
+299,Thor,Iron Man,Hulk,Captain America,Seoul,Loki,Yes
+300,Hawkeye,Black Widow,Thor,Captain America,Rio de Janeiro,AIM,Yes

@@ -1,0 +1,288 @@
+Team_Leader,Avenger1,Avenger2,Avenger3,Location,Enemy,Outcome,Weather,Time_of_Day,Duration
+Iron Man (Tony Stark),Hulk (Bruce Banner),Thor (Thor Odinson),Black Widow (Natasha Romanoff),New York City,AIM,Victory,Clear,Morning,4 hours
+Captain America (Steve Rogers),Hawkeye (Clint Barton),Ant-Man (Scott Lang),Spider-Man (Peter Parker),Washington D.C.,Hydra,Defeat,Overcast,Afternoon,3 hours
+Thor (Thor Odinson),Captain Marvel (Carol Danvers),Black Panther (T'Challa),Doctor Strange (Stephen Strange),Wakanda,Thanos,Victory,Sunny,Evening,6 hours
+Black Widow (Natasha Romanoff),Captain America (Sam Wilson),Falcon (Sam Wilson),Winter Soldier (Bucky Barnes),Sokovia,Ultron,Victory,Stormy,Night,5 hours
+Hulk (Bruce Banner),Iron Man (Tony Stark),War Machine (James Rhodes),Vision (Vision),Seoul,Chitauri,Defeat,Foggy,Evening,3.5 hours
+Captain Marvel (Carol Danvers),Scarlet Witch (Wanda Maximoff),Quicksilver (Pietro Maximoff),Vision (Vision),London,Abomination,Victory,Rainy,Afternoon,4.5 hours
+Black Panther (T'Challa),Shuri (Shuri),Okoye (Okoye),M'Baku (M'Baku),Wakanda,Erik Killmonger (N'Jadaka),Defeat,Snowy,Evening,5.5 hours
+Spider-Man (Peter Parker),Iron Man (Tony Stark),Doctor Strange (Stephen Strange),Black Panther (T'Challa),New York City,Vulture,Victory,Clear,Evening,4 hours
+Captain America (Steve Rogers),Winter Soldier (Bucky Barnes),Falcon (Sam Wilson),Scarlet Witch (Wanda Maximoff),Berlin,Hydra,Victory,Sunny,Morning,4.5 hours
+Thor (Thor Odinson),Valkyrie (Brunnhilde),Loki (Loki Laufeyson),Hulk (Bruce Banner),Asgard,Hela,Defeat,Cloudy,Afternoon,5 hours
+Iron Man (Tony Stark),War Machine (James Rhodes),Spider-Man (Peter Parker),Hawkeye (Clint Barton),Tokyo,The Mandarin,Victory,Clear,Evening,3.5 hours
+Captain Marvel (Carol Danvers),Nick Fury (Nick Fury),Maria Hill (Maria Hill),Agent Coulson (Phil Coulson),London,Hydra,Victory,Foggy,Night,4 hours
+Captain America (Steve Rogers),Black Widow (Natasha Romanoff),Ant-Man (Scott Lang),Winter Soldier (Bucky Barnes),Siberia,Red Skull,Defeat,Snowy,Night,5 hours
+Iron Man (Tony Stark),Thor (Thor Odinson),Hulk (Bruce Banner),Black Widow (Natasha Romanoff),Sokovia,Ultron,Victory,Stormy,Evening,6 hours
+Black Panther (T'Challa),Shuri (Shuri),Okoye (Okoye),M'Baku (M'Baku),Wakanda,Erik Killmonger (N'Jadaka),Victory,Sunny,Afternoon,4 hours
+Thor (Thor Odinson),Loki (Loki Laufeyson),Valkyrie (Brunnhilde),Heimdall (Heimdall),Asgard,Hela,Defeat,Cloudy,Evening,5 hours
+Spider-Man (Peter Parker),Iron Man (Tony Stark),Doctor Strange (Stephen Strange),Black Panther (T'Challa),New York City,Kingpin,Victory,Clear,Afternoon,3.5 hours
+Captain Marvel (Carol Danvers),Scarlet Witch (Wanda Maximoff),Quicksilver (Pietro Maximoff),Vision (Vision),London,Magneto,Defeat,Rainy,Night,4 hours
+Captain America (Steve Rogers),Winter Soldier (Bucky Barnes),Falcon (Sam Wilson),Scarlet Witch (Wanda Maximoff),Berlin,Hydra,Victory,Sunny,Morning,4 hours
+Thor (Thor Odinson),Valkyrie (Brunnhilde),Hulk (Bruce Banner),Hela (Hela),Asgard,Hela,Defeat,Cloudy,Afternoon,5.5 hours
+Iron Man (Tony Stark),War Machine (James Rhodes),Spider-Man (Peter Parker),Hawkeye (Clint Barton),Tokyo,The Mandarin,Victory,Clear,Evening,3.5 hours
+Captain Marvel (Carol Danvers),Nick Fury (Nick Fury),Maria Hill (Maria Hill),Agent Coulson (Phil Coulson),London,Hydra,Victory,Foggy,Night,4 hours
+Captain America (Steve Rogers),Black Widow (Natasha Romanoff),Ant-Man (Scott Lang),Winter Soldier (Bucky Barnes),Siberia,Red Skull,Defeat,Snowy,Night,5 hours
+Iron Man (Tony Stark),Thor (Thor Odinson),Hulk (Bruce Banner),Black Widow (Natasha Romanoff),Sokovia,Ultron,Victory,Stormy,Evening,6 hours
+Black Panther (T'Challa),Shuri (Shuri),Okoye (Okoye),M'Baku (M'Baku),Wakanda,Erik Killmonger (N'Jadaka),Victory,Sunny,Afternoon,4 hours
+Thor (Thor Odinson),Loki (Loki Laufeyson),Valkyrie (Brunnhilde),Heimdall (Heimdall),Asgard,Hela,Defeat,Cloudy,Evening,5 hours
+Spider-Man (Peter Parker),Iron Man (Tony Stark),Doctor Strange (Stephen Strange),Black Panther (T'Challa),New York City,Kingpin,Victory,Clear,Afternoon,3.5 hours
+Captain Marvel (Carol Danvers),Scarlet Witch (Wanda Maximoff),Quicksilver (Pietro Maximoff),Vision (Vision),London,Magneto,Defeat,Rainy,Night,4 hours
+Captain America (Steve Rogers),Winter Soldier (Bucky Barnes),Falcon (Sam Wilson),Scarlet Witch (Wanda Maximoff),Berlin,Hydra,Victory,Sunny,Morning,4 hours
+Thor (Thor Odinson),Valkyrie (Brunnhilde),Hulk (Bruce Banner),Hela (Hela),Asgard,Hela,Defeat,Cloudy,Afternoon,5.5 hours
+Iron Man (Tony Stark),War Machine (James Rhodes),Spider-Man (Peter Parker),Hawkeye (Clint Barton),Tokyo,The Mandarin,Victory,Clear,Evening,3.5 hours
+Captain Marvel (Carol Danvers),Nick Fury (Nick Fury),Maria Hill (Maria Hill),Agent Coulson (Phil Coulson),London,Hydra,Victory,Foggy,Night,4 hours
+Captain America (Steve Rogers),Black Widow (Natasha Romanoff),Ant-Man (Scott Lang),Winter Soldier (Bucky Barnes),Siberia,Red Skull,Defeat,Snowy,Night,5 hours
+Iron Man (Tony Stark),Thor (Thor Odinson),Hulk (Bruce Banner),Black Widow (Natasha Romanoff),Sokovia,Ultron,Victory,Stormy,Evening,6 hours
+Black Panther (T'Challa),Shuri (Shuri),Okoye (Okoye),M'Baku (M'Baku),Wakanda,Erik Killmonger (N'Jadaka),Victory,Sunny,Afternoon,4 hours
+Thor (Thor Odinson),Loki (Loki Laufeyson),Valkyrie (Brunnhilde),Heimdall (Heimdall),Asgard,Hela,Defeat,Cloudy,Evening,5 hours
+Spider-Man (Peter Parker),Iron Man (Tony Stark),Doctor Strange (Stephen Strange),Black Panther (T'Challa),New York City,Kingpin,Victory,Clear,Afternoon,3.5 hours
+Captain Marvel (Carol Danvers),Scarlet Witch (Wanda Maximoff),Quicksilver (Pietro Maximoff),Vision (Vision),London,Magneto,Defeat,Rainy,Night,4 hours
+Captain America (Steve Rogers),Winter Soldier (Bucky Barnes),Falcon (Sam Wilson),Scarlet Witch (Wanda Maximoff),Berlin,Hydra,Victory,Sunny,Morning,4 hours
+Thor (Thor Odinson),Valkyrie (Brunnhilde),Hulk (Bruce Banner),Hela (Hela),Asgard,Hela,Defeat,Cloudy,Afternoon,5.5 hours
+Iron Man (Tony Stark),War Machine (James Rhodes),Spider-Man (Peter Parker),Hawkeye (Clint Barton),Tokyo,The Mandarin,Victory,Clear,Evening,3.5 hours
+Captain Marvel (Carol Danvers),Nick Fury (Nick Fury),Maria Hill (Maria Hill),Agent Coulson (Phil Coulson),London,Hydra,Victory,Foggy,Night,4 hours
+Captain America (Steve Rogers),Black Widow (Natasha Romanoff),Ant-Man (Scott Lang),Winter Soldier (Bucky Barnes),Siberia,Red Skull,Defeat,Snowy,Night,5 hours
+Iron Man (Tony Stark),Thor (Thor Odinson),Hulk (Bruce Banner),Black Widow (Natasha Romanoff),Sokovia,Ultron,Victory,Stormy,Evening,6 hours
+Black Panther (T'Challa),Shuri (Shuri),Okoye (Okoye),M'Baku (M'Baku),Wakanda,Erik Killmonger (N'Jadaka),Victory,Sunny,Afternoon,4 hours
+Thor (Thor Odinson),Loki (Loki Laufeyson),Valkyrie (Brunnhilde),Heimdall (Heimdall),Asgard,Hela,Defeat,Cloudy,Evening,5 hours
+Spider-Man (Peter Parker),Iron Man (Tony Stark),Doctor Strange (Stephen Strange),Black Panther (T'Challa),New York City,Kingpin,Victory,Clear,Afternoon,3.5 hours
+Captain Marvel (Carol Danvers),Scarlet Witch (Wanda Maximoff),Quicksilver (Pietro Maximoff),Vision (Vision),London,Magneto,Defeat,Rainy,Night,4 hours
+Captain America (Steve Rogers),Winter Soldier (Bucky Barnes),Falcon (Sam Wilson),Scarlet Witch (Wanda Maximoff),Berlin,Hydra,Victory,Sunny,Morning,4 hours
+Thor (Thor Odinson),Valkyrie (Brunnhilde),Hulk (Bruce Banner),Hela (Hela),Asgard,Hela,Defeat,Cloudy,Afternoon,5.5 hours
+Iron Man (Tony Stark),War Machine (James Rhodes),Spider-Man (Peter Parker),Hawkeye (Clint Barton),Tokyo,The Mandarin,Victory,Clear,Evening,3.5 hours
+Captain Marvel (Carol Danvers),Nick Fury (Nick Fury),Maria Hill (Maria Hill),Agent Coulson (Phil Coulson),London,Hydra,Victory,Foggy,Night,4 hours
+Captain America (Steve Rogers),Black Widow (Natasha Romanoff),Ant-Man (Scott Lang),Winter Soldier (Bucky Barnes),Siberia,Red Skull,Defeat,Snowy,Night,5 hours
+Iron Man (Tony Stark),Thor (Thor Odinson),Hulk (Bruce Banner),Black Widow (Natasha Romanoff),Sokovia,Ultron,Victory,Stormy,Evening,6 hours
+Black Panther (T'Challa),Shuri (Shuri),Okoye (Okoye),M'Baku (M'Baku),Wakanda,Erik Killmonger (N'Jadaka),Victory,Sunny,Afternoon,4 hours
+Thor (Thor Odinson),Loki (Loki Laufeyson),Valkyrie (Brunnhilde),Heimdall (Heimdall),Asgard,Hela,Defeat,Cloudy,Evening,5 hours
+Spider-Man (Peter Parker),Iron Man (Tony Stark),Doctor Strange (Stephen Strange),Black Panther (T'Challa),New York City,Kingpin,Victory,Clear,Afternoon,3.5 hours
+Captain Marvel (Carol Danvers),Scarlet Witch (Wanda Maximoff),Quicksilver (Pietro Maximoff),Vision (Vision),London,Magneto,Defeat,Rainy,Night,4 hours
+Captain America (Steve Rogers),Winter Soldier (Bucky Barnes),Falcon (Sam Wilson),Scarlet Witch (Wanda Maximoff),Berlin,Hydra,Victory,Sunny,Morning,4 hours
+Thor (Thor Odinson),Valkyrie (Brunnhilde),Hulk (Bruce Banner),Hela (Hela),Asgard,Hela,Defeat,Cloudy,Afternoon,5.5 hours
+Iron Man (Tony Stark),War Machine (James Rhodes),Spider-Man (Peter Parker),Hawkeye (Clint Barton),Tokyo,The Mandarin,Victory,Clear,Evening,3.5 hours
+Captain Marvel (Carol Danvers),Nick Fury (Nick Fury),Maria Hill (Maria Hill),Agent Coulson (Phil Coulson),London,Hydra,Victory,Foggy,Night,4 hours
+Captain America (Steve Rogers),Black Widow (Natasha Romanoff),Ant-Man (Scott Lang),Winter Soldier (Bucky Barnes),Siberia,Red Skull,Defeat,Snowy,Night,5 hours
+Iron Man (Tony Stark),Thor (Thor Odinson),Hulk (Bruce Banner),Black Widow (Natasha Romanoff),Sokovia,Ultron,Victory,Stormy,Evening,6 hours
+Black Panther (T'Challa),Shuri (Shuri),Okoye (Okoye),M'Baku (M'Baku),Wakanda,Erik Killmonger (N'Jadaka),Victory,Sunny,Afternoon,4 hours
+Thor (Thor Odinson),Loki (Loki Laufeyson),Valkyrie (Brunnhilde),Heimdall (Heimdall),Asgard,Hela,Defeat,Cloudy,Evening,5 hours
+Spider-Man (Peter Parker),Iron Man (Tony Stark),Doctor Strange (Stephen Strange),Black Panther (T'Challa),New York City,Kingpin,Victory,Clear,Afternoon,3.5 hours
+Captain Marvel (Carol Danvers),Scarlet Witch (Wanda Maximoff),Quicksilver (Pietro Maximoff),Vision (Vision),London,Magneto,Defeat,Rainy,Night,4 hours
+Captain America (Steve Rogers),Winter Soldier (Bucky Barnes),Falcon (Sam Wilson),Scarlet Witch (Wanda Maximoff),Berlin,Hydra,Victory,Sunny,Morning,4 hours
+Thor (Thor Odinson),Valkyrie (Brunnhilde),Hulk (Bruce Banner),Hela (Hela),Asgard,Hela,Defeat,Cloudy,Afternoon,5.5 hours
+Iron Man (Tony Stark),War Machine (James Rhodes),Spider-Man (Peter Parker),Hawkeye (Clint Barton),Tokyo,The Mandarin,Victory,Clear,Evening,3.5 hours
+Captain Marvel (Carol Danvers),Nick Fury (Nick Fury),Maria Hill (Maria Hill),Agent Coulson (Phil Coulson),London,Hydra,Victory,Foggy,Night,4 hours
+Captain America (Steve Rogers),Black Widow (Natasha Romanoff),Ant-Man (Scott Lang),Winter Soldier (Bucky Barnes),Siberia,Red Skull,Defeat,Snowy,Night,5 hours
+Iron Man (Tony Stark),Thor (Thor Odinson),Hulk (Bruce Banner),Black Widow (Natasha Romanoff),Sokovia,Ultron,Victory,Stormy,Evening,6 hours
+Black Panther (T'Challa),Shuri (Shuri),Okoye (Okoye),M'Baku (M'Baku),Wakanda,Erik Killmonger (N'Jadaka),Victory,Sunny,Afternoon,4 hours
+Thor (Thor Odinson),Loki (Loki Laufeyson),Valkyrie (Brunnhilde),Heimdall (Heimdall),Asgard,Hela,Defeat,Cloudy,Evening,5 hours
+Spider-Man (Peter Parker),Iron Man (Tony Stark),Doctor Strange (Stephen Strange),Black Panther (T'Challa),New York City,Kingpin,Victory,Clear,Afternoon,3.5 hours
+Captain Marvel (Carol Danvers),Scarlet Witch (Wanda Maximoff),Quicksilver (Pietro Maximoff),Vision (Vision),London,Magneto,Defeat,Rainy,Night,4 hours
+Captain America (Steve Rogers),Winter Soldier (Bucky Barnes),Falcon (Sam Wilson),Scarlet Witch (Wanda Maximoff),Berlin,Hydra,Victory,Sunny,Morning,4 hours
+Thor (Thor Odinson),Valkyrie (Brunnhilde),Hulk (Bruce Banner),Hela (Hela),Asgard,Hela,Defeat,Cloudy,Afternoon,5.5 hours
+Iron Man (Tony Stark),War Machine (James Rhodes),Spider-Man (Peter Parker),Hawkeye (Clint Barton),Tokyo,The Mandarin,Victory,Clear,Evening,3.5 hours
+Captain Marvel (Carol Danvers),Nick Fury (Nick Fury),Maria Hill (Maria Hill),Agent Coulson (Phil Coulson),London,Hydra,Victory,Foggy,Night,4 hours
+Captain America (Steve Rogers),Black Widow (Natasha Romanoff),Ant-Man (Scott Lang),Winter Soldier (Bucky Barnes),Siberia,Red Skull,Defeat,Snowy,Night,5 hours
+Iron Man (Tony Stark),Thor (Thor Odinson),Hulk (Bruce Banner),Black Widow (Natasha Romanoff),Sokovia,Ultron,Victory,Stormy,Evening,6 hours
+Black Panther (T'Challa),Shuri (Shuri),Okoye (Okoye),M'Baku (M'Baku),Wakanda,Erik Killmonger (N'Jadaka),Victory,Sunny,Afternoon,4 hours
+Thor (Thor Odinson),Loki (Loki Laufeyson),Valkyrie (Brunnhilde),Heimdall (Heimdall),Asgard,Hela,Defeat,Cloudy,Evening,5 hours
+Spider-Man (Peter Parker),Iron Man (Tony Stark),Doctor Strange (Stephen Strange),Black Panther (T'Challa),New York City,Kingpin,Victory,Clear,Afternoon,3.5 hours
+Captain Marvel (Carol Danvers),Scarlet Witch (Wanda Maximoff),Quicksilver (Pietro Maximoff),Vision (Vision),London,Magneto,Defeat,Rainy,Night,4 hours
+Captain America (Steve Rogers),Winter Soldier (Bucky Barnes),Falcon (Sam Wilson),Scarlet Witch (Wanda Maximoff),Berlin,Hydra,Victory,Sunny,Morning,4 hours
+Thor (Thor Odinson),Valkyrie (Brunnhilde),Hulk (Bruce Banner),Hela (Hela),Asgard,Hela,Defeat,Cloudy,Afternoon,5.5 hours
+Iron Man (Tony Stark),War Machine (James Rhodes),Spider-Man (Peter Parker),Hawkeye (Clint Barton),Tokyo,The Mandarin,Victory,Clear,Evening,3.5 hours
+Captain Marvel (Carol Danvers),Nick Fury (Nick Fury),Maria Hill (Maria Hill),Agent Coulson (Phil Coulson),London,Hydra,Victory,Foggy,Night,4 hours
+Captain America (Steve Rogers),Black Widow (Natasha Romanoff),Ant-Man (Scott Lang),Winter Soldier (Bucky Barnes),Siberia,Red Skull,Defeat,Snowy,Night,5 hours
+Iron Man (Tony Stark),Thor (Thor Odinson),Hulk (Bruce Banner),Black Widow (Natasha Romanoff),Sokovia,Ultron,Victory,Stormy,Evening,6 hours
+Black Panther (T'Challa),Shuri (Shuri),Okoye (Okoye),M'Baku (M'Baku),Wakanda,Erik Killmonger (N'Jadaka),Victory,Sunny,Afternoon,4 hours
+Thor (Thor Odinson),Loki (Loki Laufeyson),Valkyrie (Brunnhilde),Heimdall (Heimdall),Asgard,Hela,Defeat,Cloudy,Evening,5 hours
+Spider-Man (Peter Parker),Iron Man (Tony Stark),Doctor Strange (Stephen Strange),Black Panther (T'Challa),New York City,Kingpin,Victory,Clear,Afternoon,3.5 hours
+Captain Marvel (Carol Danvers),Scarlet Witch (Wanda Maximoff),Quicksilver (Pietro Maximoff),Vision (Vision),London,Magneto,Defeat,Rainy,Night,4 hours
+Captain America (Steve Rogers),Winter Soldier (Bucky Barnes),Falcon (Sam Wilson),Scarlet Witch (Wanda Maximoff),Berlin,Hydra,Victory,Sunny,Morning,4 hours
+Thor (Thor Odinson),Valkyrie (Brunnhilde),Hulk (Bruce Banner),Hela (Hela),Asgard,Hela,Defeat,Cloudy,Afternoon,5.5 hours
+Iron Man (Tony Stark),War Machine (James Rhodes),Spider-Man (Peter Parker),Hawkeye (Clint Barton),Tokyo,The Mandarin,Victory,Clear,Evening,3.5 hours
+Captain Marvel (Carol Danvers),Nick Fury (Nick Fury),Maria Hill (Maria Hill),Agent Coulson (Phil Coulson),London,Hydra,Victory,Foggy,Night,4 hours
+Captain America (Steve Rogers),Black Widow (Natasha Romanoff),Ant-Man (Scott Lang),Winter Soldier (Bucky Barnes),Siberia,Red Skull,Defeat,Snowy,Night,5 hours
+Iron Man (Tony Stark),Thor (Thor Odinson),Hulk (Bruce Banner),Black Widow (Natasha Romanoff),Sokovia,Ultron,Victory,Stormy,Evening,6 hours
+Black Panther (T'Challa),Shuri (Shuri),Okoye (Okoye),M'Baku (M'Baku),Wakanda,Erik Killmonger (N'Jadaka),Victory,Sunny,Afternoon,4 hours
+Thor (Thor Odinson),Loki (Loki Laufeyson),Valkyrie (Brunnhilde),Heimdall (Heimdall),Asgard,Hela,Defeat,Cloudy,Evening,5 hours
+Spider-Man (Peter Parker),Iron Man (Tony Stark),Doctor Strange (Stephen Strange),Black Panther (T'Challa),New York City,Kingpin,Victory,Clear,Afternoon,3.5 hours
+Captain Marvel (Carol Danvers),Scarlet Witch (Wanda Maximoff),Quicksilver (Pietro Maximoff),Vision (Vision),London,Magneto,Defeat,Rainy,Night,4 hours
+Captain America (Steve Rogers),Winter Soldier (Bucky Barnes),Falcon (Sam Wilson),Scarlet Witch (Wanda Maximoff),Berlin,Hydra,Victory,Sunny,Morning,4 hours
+Thor (Thor Odinson),Valkyrie (Brunnhilde),Hulk (Bruce Banner),Hela (Hela),Asgard,Hela,Defeat,Cloudy,Afternoon,5.5 hours
+Iron Man (Tony Stark),War Machine (James Rhodes),Spider-Man (Peter Parker),Hawkeye (Clint Barton),Tokyo,The Mandarin,Victory,Clear,Evening,3.5 hours
+Captain Marvel (Carol Danvers),Nick Fury (Nick Fury),Maria Hill (Maria Hill),Agent Coulson (Phil Coulson),London,Hydra,Victory,Foggy,Night,4 hours
+Captain America (Steve Rogers),Black Widow (Natasha Romanoff),Ant-Man (Scott Lang),Winter Soldier (Bucky Barnes),Siberia,Red Skull,Defeat,Snowy,Night,5 hours
+Iron Man (Tony Stark),Thor (Thor Odinson),Hulk (Bruce Banner),Black Widow (Natasha Romanoff),Sokovia,Ultron,Victory,Stormy,Evening,6 hours
+Black Panther (T'Challa),Shuri (Shuri),Okoye (Okoye),M'Baku (M'Baku),Wakanda,Erik Killmonger (N'Jadaka),Victory,Sunny,Afternoon,4 hours
+Thor (Thor Odinson),Loki (Loki Laufeyson),Valkyrie (Brunnhilde),Heimdall (Heimdall),Asgard,Hela,Defeat,Cloudy,Evening,5 hours
+Spider-Man (Peter Parker),Iron Man (Tony Stark),Doctor Strange (Stephen Strange),Black Panther (T'Challa),New York City,Kingpin,Victory,Clear,Afternoon,3.5 hours
+Captain Marvel (Carol Danvers),Scarlet Witch (Wanda Maximoff),Quicksilver (Pietro Maximoff),Vision (Vision),London,Magneto,Defeat,Rainy,Night,4 hours
+Captain America (Steve Rogers),Winter Soldier (Bucky Barnes),Falcon (Sam Wilson),Scarlet Witch (Wanda Maximoff),Berlin,Hydra,Victory,Sunny,Morning,4 hours
+Thor (Thor Odinson),Valkyrie (Brunnhilde),Hulk (Bruce Banner),Hela (Hela),Asgard,Hela,Defeat,Cloudy,Afternoon,5.5 hours
+Iron Man (Tony Stark),War Machine (James Rhodes),Spider-Man (Peter Parker),Hawkeye (Clint Barton),Tokyo,The Mandarin,Victory,Clear,Evening,3.5 hours
+Captain Marvel (Carol Danvers),Nick Fury (Nick Fury),Maria Hill (Maria Hill),Agent Coulson (Phil Coulson),London,Hydra,Victory,Foggy,Night,4 hours
+Captain America (Steve Rogers),Black Widow (Natasha Romanoff),Ant-Man (Scott Lang),Winter Soldier (Bucky Barnes),Siberia,Red Skull,Defeat,Snowy,Night,5 hours
+Iron Man (Tony Stark),Thor (Thor Odinson),Hulk (Bruce Banner),Black Widow (Natasha Romanoff),Sokovia,Ultron,Victory,Stormy,Evening,6 hours
+Black Panther (T'Challa),Shuri (Shuri),Okoye (Okoye),M'Baku (M'Baku),Wakanda,Erik Killmonger (N'Jadaka),Victory,Sunny,Afternoon,4 hours
+Thor (Thor Odinson),Loki (Loki Laufeyson),Valkyrie (Brunnhilde),Heimdall (Heimdall),Asgard,Hela,Defeat,Cloudy,Evening,5 hours
+Spider-Man (Peter Parker),Iron Man (Tony Stark),Doctor Strange (Stephen Strange),Black Panther (T'Challa),New York City,Kingpin,Victory,Clear,Afternoon,3.5 hours
+Captain Marvel (Carol Danvers),Scarlet Witch (Wanda Maximoff),Quicksilver (Pietro Maximoff),Vision (Vision),London,Magneto,Defeat,Rainy,Night,4 hours
+Captain America (Steve Rogers),Winter Soldier (Bucky Barnes),Falcon (Sam Wilson),Scarlet Witch (Wanda Maximoff),Berlin,Hydra,Victory,Sunny,Morning,4 hours
+Thor (Thor Odinson),Valkyrie (Brunnhilde),Hulk (Bruce Banner),Hela (Hela),Asgard,Hela,Defeat,Cloudy,Afternoon,5.5 hours
+Iron Man (Tony Stark),War Machine (James Rhodes),Spider-Man (Peter Parker),Hawkeye (Clint Barton),Tokyo,The Mandarin,Victory,Clear,Evening,3.5 hours
+Captain Marvel (Carol Danvers),Nick Fury (Nick Fury),Maria Hill (Maria Hill),Agent Coulson (Phil Coulson),London,Hydra,Victory,Foggy,Night,4 hours
+Captain America (Steve Rogers),Black Widow (Natasha Romanoff),Ant-Man (Scott Lang),Winter Soldier (Bucky Barnes),Siberia,Red Skull,Defeat,Snowy,Night,5 hours
+Iron Man (Tony Stark),Thor (Thor Odinson),Hulk (Bruce Banner),Black Widow (Natasha Romanoff),Sokovia,Ultron,Victory,Stormy,Evening,6 hours
+Black Panther (T'Challa),Shuri (Shuri),Okoye (Okoye),M'Baku (M'Baku),Wakanda,Erik Killmonger (N'Jadaka),Victory,Sunny,Afternoon,4 hours
+Thor (Thor Odinson),Loki (Loki Laufeyson),Valkyrie (Brunnhilde),Heimdall (Heimdall),Asgard,Hela,Defeat,Cloudy,Evening,5 hours
+Spider-Man (Peter Parker),Iron Man (Tony Stark),Doctor Strange (Stephen Strange),Black Panther (T'Challa),New York City,Kingpin,Victory,Clear,Afternoon,3.5 hours
+Captain Marvel (Carol Danvers),Scarlet Witch (Wanda Maximoff),Quicksilver (Pietro Maximoff),Vision (Vision),London,Magneto,Defeat,Rainy,Night,4 hours
+Captain America (Steve Rogers),Winter Soldier (Bucky Barnes),Falcon (Sam Wilson),Scarlet Witch (Wanda Maximoff),Berlin,Hydra,Victory,Sunny,Morning,4 hours
+Thor (Thor Odinson),Valkyrie (Brunnhilde),Hulk (Bruce Banner),Hela (Hela),Asgard,Hela,Defeat,Cloudy,Afternoon,5.5 hours
+Iron Man (Tony Stark),War Machine (James Rhodes),Spider-Man (Peter Parker),Hawkeye (Clint Barton),Tokyo,The Mandarin,Victory,Clear,Evening,3.5 hours
+Captain Marvel (Carol Danvers),Nick Fury (Nick Fury),Maria Hill (Maria Hill),Agent Coulson (Phil Coulson),London,Hydra,Victory,Foggy,Night,4 hours
+Captain America (Steve Rogers),Black Widow (Natasha Romanoff),Ant-Man (Scott Lang),Winter Soldier (Bucky Barnes),Siberia,Red Skull,Defeat,Snowy,Night,5 hours
+Iron Man (Tony Stark),Thor (Thor Odinson),Hulk (Bruce Banner),Black Widow (Natasha Romanoff),Sokovia,Ultron,Victory,Stormy,Evening,6 hours
+Black Panther (T'Challa),Shuri (Shuri),Okoye (Okoye),M'Baku (M'Baku),Wakanda,Erik Killmonger (N'Jadaka),Victory,Sunny,Afternoon,4 hours
+Thor (Thor Odinson),Loki (Loki Laufeyson),Valkyrie (Brunnhilde),Heimdall (Heimdall),Asgard,Hela,Defeat,Cloudy,Evening,5 hours
+Spider-Man (Peter Parker),Iron Man (Tony Stark),Doctor Strange (Stephen Strange),Black Panther (T'Challa),New York City,Kingpin,Victory,Clear,Afternoon,3.5 hours
+Captain Marvel (Carol Danvers),Scarlet Witch (Wanda Maximoff),Quicksilver (Pietro Maximoff),Vision (Vision),London,Magneto,Defeat,Rainy,Night,4 hours
+Captain America (Steve Rogers),Winter Soldier (Bucky Barnes),Falcon (Sam Wilson),Scarlet Witch (Wanda Maximoff),Berlin,Hydra,Victory,Sunny,Morning,4 hours
+Thor (Thor Odinson),Valkyrie (Brunnhilde),Hulk (Bruce Banner),Hela (Hela),Asgard,Hela,Defeat,Cloudy,Afternoon,5.5 hours
+Iron Man (Tony Stark),War Machine (James Rhodes),Spider-Man (Peter Parker),Hawkeye (Clint Barton),Tokyo,The Mandarin,Victory,Clear,Evening,3.5 hours
+Captain Marvel (Carol Danvers),Nick Fury (Nick Fury),Maria Hill (Maria Hill),Agent Coulson (Phil Coulson),London,Hydra,Victory,Foggy,Night,4 hours
+Captain America (Steve Rogers),Black Widow (Natasha Romanoff),Ant-Man (Scott Lang),Winter Soldier (Bucky Barnes),Siberia,Red Skull,Defeat,Snowy,Night,5 hours
+Iron Man (Tony Stark),Thor (Thor Odinson),Hulk (Bruce Banner),Black Widow (Natasha Romanoff),Sokovia,Ultron,Victory,Stormy,Evening,6 hours
+Black Panther (T'Challa),Shuri (Shuri),Okoye (Okoye),M'Baku (M'Baku),Wakanda,Erik Killmonger (N'Jadaka),Victory,Sunny,Afternoon,4 hours
+Thor (Thor Odinson),Loki (Loki Laufeyson),Valkyrie (Brunnhilde),Heimdall (Heimdall),Asgard,Hela,Defeat,Cloudy,Evening,5 hours
+Spider-Man (Peter Parker),Iron Man (Tony Stark),Doctor Strange (Stephen Strange),Black Panther (T'Challa),New York City,Kingpin,Victory,Clear,Afternoon,3.5 hours
+Captain Marvel (Carol Danvers),Scarlet Witch (Wanda Maximoff),Quicksilver (Pietro Maximoff),Vision (Vision),London,Magneto,Defeat,Rainy,Night,4 hours
+Captain America (Steve Rogers),Winter Soldier (Bucky Barnes),Falcon (Sam Wilson),Scarlet Witch (Wanda Maximoff),Berlin,Hydra,Victory,Sunny,Morning,4 hours
+Thor (Thor Odinson),Valkyrie (Brunnhilde),Hulk (Bruce Banner),Hela (Hela),Asgard,Hela,Defeat,Cloudy,Afternoon,5.5 hours
+Iron Man (Tony Stark),War Machine (James Rhodes),Spider-Man (Peter Parker),Hawkeye (Clint Barton),Tokyo,The Mandarin,Victory,Clear,Evening,3.5 hours
+Captain Marvel (Carol Danvers),Nick Fury (Nick Fury),Maria Hill (Maria Hill),Agent Coulson (Phil Coulson),London,Hydra,Victory,Foggy,Night,4 hours
+Captain America (Steve Rogers),Black Widow (Natasha Romanoff),Ant-Man (Scott Lang),Winter Soldier (Bucky Barnes),Siberia,Red Skull,Defeat,Snowy,Night,5 hours
+Iron Man (Tony Stark),Thor (Thor Odinson),Hulk (Bruce Banner),Black Widow (Natasha Romanoff),Sokovia,Ultron,Victory,Stormy,Evening,6 hours
+Black Panther (T'Challa),Shuri (Shuri),Okoye (Okoye),M'Baku (M'Baku),Wakanda,Erik Killmonger (N'Jadaka),Victory,Sunny,Afternoon,4 hours
+Thor (Thor Odinson),Loki (Loki Laufeyson),Valkyrie (Brunnhilde),Heimdall (Heimdall),Asgard,Hela,Defeat,Cloudy,Evening,5 hours
+Spider-Man (Peter Parker),Iron Man (Tony Stark),Doctor Strange (Stephen Strange),Black Panther (T'Challa),New York City,Kingpin,Victory,Clear,Afternoon,3.5 hours
+Captain Marvel (Carol Danvers),Scarlet Witch (Wanda Maximoff),Quicksilver (Pietro Maximoff),Vision (Vision),London,Magneto,Defeat,Rainy,Night,4 hours
+Captain America (Steve Rogers),Winter Soldier (Bucky Barnes),Falcon (Sam Wilson),Scarlet Witch (Wanda Maximoff),Berlin,Hydra,Victory,Sunny,Morning,4 hours
+Thor (Thor Odinson),Valkyrie (Brunnhilde),Hulk (Bruce Banner),Hela (Hela),Asgard,Hela,Defeat,Cloudy,Afternoon,5.5 hours
+Iron Man (Tony Stark),War Machine (James Rhodes),Spider-Man (Peter Parker),Hawkeye (Clint Barton),Tokyo,The Mandarin,Victory,Clear,Evening,3.5 hours
+Captain Marvel (Carol Danvers),Nick Fury (Nick Fury),Maria Hill (Maria Hill),Agent Coulson (Phil Coulson),London,Hydra,Victory,Foggy,Night,4 hours
+Captain America (Steve Rogers),Black Widow (Natasha Romanoff),Ant-Man (Scott Lang),Winter Soldier (Bucky Barnes),Siberia,Red Skull,Defeat,Snowy,Night,5 hours
+Iron Man (Tony Stark),Thor (Thor Odinson),Hulk (Bruce Banner),Black Widow (Natasha Romanoff),Sokovia,Ultron,Victory,Stormy,Evening,6 hours
+Black Panther (T'Challa),Shuri (Shuri),Okoye (Okoye),M'Baku (M'Baku),Wakanda,Erik Killmonger (N'Jadaka),Victory,Sunny,Afternoon,4 hours
+Thor (Thor Odinson),Loki (Loki Laufeyson),Valkyrie (Brunnhilde),Heimdall (Heimdall),Asgard,Hela,Defeat,Cloudy,Evening,5 hours
+Spider-Man (Peter Parker),Iron Man (Tony Stark),Doctor Strange (Stephen Strange),Black Panther (T'Challa),New York City,Kingpin,Victory,Clear,Afternoon,3.5 hours
+Captain Marvel (Carol Danvers),Scarlet Witch (Wanda Maximoff),Quicksilver (Pietro Maximoff),Vision (Vision),London,Magneto,Defeat,Rainy,Night,4 hours
+Captain America (Steve Rogers),Winter Soldier (Bucky Barnes),Falcon (Sam Wilson),Scarlet Witch (Wanda Maximoff),Berlin,Hydra,Victory,Sunny,Morning,4 hours
+Thor (Thor Odinson),Valkyrie (Brunnhilde),Hulk (Bruce Banner),Hela (Hela),Asgard,Hela,Defeat,Cloudy,Afternoon,5.5 hours
+Iron Man (Tony Stark),War Machine (James Rhodes),Spider-Man (Peter Parker),Hawkeye (Clint Barton),Tokyo,The Mandarin,Victory,Clear,Evening,3.5 hours
+Captain Marvel (Carol Danvers),Nick Fury (Nick Fury),Maria Hill (Maria Hill),Agent Coulson (Phil Coulson),London,Hydra,Victory,Foggy,Night,4 hours
+Captain America (Steve Rogers),Black Widow (Natasha Romanoff),Ant-Man (Scott Lang),Winter Soldier (Bucky Barnes),Siberia,Red Skull,Defeat,Snowy,Night,5 hours
+Iron Man (Tony Stark),Thor (Thor Odinson),Hulk (Bruce Banner),Black Widow (Natasha Romanoff),Sokovia,Ultron,Victory,Stormy,Evening,6 hours
+Black Panther (T'Challa),Shuri (Shuri),Okoye (Okoye),M'Baku (M'Baku),Wakanda,Erik Killmonger (N'Jadaka),Victory,Sunny,Afternoon,4 hours
+Thor (Thor Odinson),Loki (Loki Laufeyson),Valkyrie (Brunnhilde),Heimdall (Heimdall),Asgard,Hela,Defeat,Cloudy,Evening,5 hours
+Spider-Man (Peter Parker),Iron Man (Tony Stark),Doctor Strange (Stephen Strange),Black Panther (T'Challa),New York City,Kingpin,Victory,Clear,Afternoon,3.5 hours
+Captain Marvel (Carol Danvers),Scarlet Witch (Wanda Maximoff),Quicksilver (Pietro Maximoff),Vision (Vision),London,Magneto,Defeat,Rainy,Night,4 hours
+Captain America (Steve Rogers),Winter Soldier (Bucky Barnes),Falcon (Sam Wilson),Scarlet Witch (Wanda Maximoff),Berlin,Hydra,Victory,Sunny,Morning,4 hours
+Thor (Thor Odinson),Valkyrie (Brunnhilde),Hulk (Bruce Banner),Hela (Hela),Asgard,Hela,Defeat,Cloudy,Afternoon,5.5 hours
+Iron Man (Tony Stark),War Machine (James Rhodes),Spider-Man (Peter Parker),Hawkeye (Clint Barton),Tokyo,The Mandarin,Victory,Clear,Evening,3.5 hours
+Captain Marvel (Carol Danvers),Nick Fury (Nick Fury),Maria Hill (Maria Hill),Agent Coulson (Phil Coulson),London,Hydra,Victory,Foggy,Night,4 hours
+Captain America (Steve Rogers),Black Widow (Natasha Romanoff),Ant-Man (Scott Lang),Winter Soldier (Bucky Barnes),Siberia,Red Skull,Defeat,Snowy,Night,5 hours
+Iron Man (Tony Stark),Thor (Thor Odinson),Hulk (Bruce Banner),Black Widow (Natasha Romanoff),Sokovia,Ultron,Victory,Stormy,Evening,6 hours
+Black Panther (T'Challa),Shuri (Shuri),Okoye (Okoye),M'Baku (M'Baku),Wakanda,Erik Killmonger (N'Jadaka),Victory,Sunny,Afternoon,4 hours
+Thor (Thor Odinson),Loki (Loki Laufeyson),Valkyrie (Brunnhilde),Heimdall (Heimdall),Asgard,Hela,Defeat,Cloudy,Evening,5 hours
+Spider-Man (Peter Parker),Iron Man (Tony Stark),Doctor Strange (Stephen Strange),Black Panther (T'Challa),New York City,Kingpin,Victory,Clear,Afternoon,3.5 hours
+Captain Marvel (Carol Danvers),Scarlet Witch (Wanda Maximoff),Quicksilver (Pietro Maximoff),Vision (Vision),London,Magneto,Defeat,Rainy,Night,4 hours
+Captain America (Steve Rogers),Winter Soldier (Bucky Barnes),Falcon (Sam Wilson),Scarlet Witch (Wanda Maximoff),Berlin,Hydra,Victory,Sunny,Morning,4 hours
+Thor (Thor Odinson),Valkyrie (Brunnhilde),Hulk (Bruce Banner),Hela (Hela),Asgard,Hela,Defeat,Cloudy,Afternoon,5.5 hours
+Iron Man (Tony Stark),War Machine (James Rhodes),Spider-Man (Peter Parker),Hawkeye (Clint Barton),Tokyo,The Mandarin,Victory,Clear,Evening,3.5 hours
+Captain Marvel (Carol Danvers),Nick Fury (Nick Fury),Maria Hill (Maria Hill),Agent Coulson (Phil Coulson),London,Hydra,Victory,Foggy,Night,4 hours
+Captain America (Steve Rogers),Black Widow (Natasha Romanoff),Ant-Man (Scott Lang),Winter Soldier (Bucky Barnes),Siberia,Red Skull,Defeat,Snowy,Night,5 hours
+Iron Man (Tony Stark),Thor (Thor Odinson),Hulk (Bruce Banner),Black Widow (Natasha Romanoff),Sokovia,Ultron,Victory,Stormy,Evening,6 hours
+Black Panther (T'Challa),Shuri (Shuri),Okoye (Okoye),M'Baku (M'Baku),Wakanda,Erik Killmonger (N'Jadaka),Victory,Sunny,Afternoon,4 hours
+Thor (Thor Odinson),Loki (Loki Laufeyson),Valkyrie (Brunnhilde),Heimdall (Heimdall),Asgard,Hela,Defeat,Cloudy,Evening,5 hours
+Spider-Man (Peter Parker),Iron Man (Tony Stark),Doctor Strange (Stephen Strange),Black Panther (T'Challa),New York City,Kingpin,Victory,Clear,Afternoon,3.5 hours
+Captain Marvel (Carol Danvers),Scarlet Witch (Wanda Maximoff),Quicksilver (Pietro Maximoff),Vision (Vision),London,Magneto,Defeat,Rainy,Night,4 hours
+Captain America (Steve Rogers),Winter Soldier (Bucky Barnes),Falcon (Sam Wilson),Scarlet Witch (Wanda Maximoff),Berlin,Hydra,Victory,Sunny,Morning,4 hours
+Thor (Thor Odinson),Valkyrie (Brunnhilde),Hulk (Bruce Banner),Hela (Hela),Asgard,Hela,Defeat,Cloudy,Afternoon,5.5 hours
+Iron Man (Tony Stark),War Machine (James Rhodes),Spider-Man (Peter Parker),Hawkeye (Clint Barton),Tokyo,The Mandarin,Victory,Clear,Evening,3.5 hours
+Captain Marvel (Carol Danvers),Nick Fury (Nick Fury),Maria Hill (Maria Hill),Agent Coulson (Phil Coulson),London,Hydra,Victory,Foggy,Night,4 hours
+Captain America (Steve Rogers),Black Widow (Natasha Romanoff),Ant-Man (Scott Lang),Winter Soldier (Bucky Barnes),Siberia,Red Skull,Defeat,Snowy,Night,5 hours
+Iron Man (Tony Stark),Thor (Thor Odinson),Hulk (Bruce Banner),Black Widow (Natasha Romanoff),Sokovia,Ultron,Victory,Stormy,Evening,6 hours
+Black Panther (T'Challa),Shuri (Shuri),Okoye (Okoye),M'Baku (M'Baku),Wakanda,Erik Killmonger (N'Jadaka),Victory,Sunny,Afternoon,4 hours
+Thor (Thor Odinson),Loki (Loki Laufeyson),Valkyrie (Brunnhilde),Heimdall (Heimdall),Asgard,Hela,Defeat,Cloudy,Evening,5 hours
+Spider-Man (Peter Parker),Iron Man (Tony Stark),Doctor Strange (Stephen Strange),Black Panther (T'Challa),New York City,Kingpin,Victory,Clear,Afternoon,3.5 hours
+Captain Marvel (Carol Danvers),Scarlet Witch (Wanda Maximoff),Quicksilver (Pietro Maximoff),Vision (Vision),London,Magneto,Defeat,Rainy,Night,4 hours
+Captain America (Steve Rogers),Winter Soldier (Bucky Barnes),Falcon (Sam Wilson),Scarlet Witch (Wanda Maximoff),Berlin,Hydra,Victory,Sunny,Morning,4 hours
+Thor (Thor Odinson),Valkyrie (Brunnhilde),Hulk (Bruce Banner),Hela (Hela),Asgard,Hela,Defeat,Cloudy,Afternoon,5.5 hours
+Iron Man (Tony Stark),War Machine (James Rhodes),Spider-Man (Peter Parker),Hawkeye (Clint Barton),Tokyo,The Mandarin,Victory,Clear,Evening,3.5 hours
+Captain Marvel (Carol Danvers),Nick Fury (Nick Fury),Maria Hill (Maria Hill),Agent Coulson (Phil Coulson),London,Hydra,Victory,Foggy,Night,4 hours
+Captain America (Steve Rogers),Black Widow (Natasha Romanoff),Ant-Man (Scott Lang),Winter Soldier (Bucky Barnes),Siberia,Red Skull,Defeat,Snowy,Night,5 hours
+Iron Man (Tony Stark),Thor (Thor Odinson),Hulk (Bruce Banner),Black Widow (Natasha Romanoff),Sokovia,Ultron,Victory,Stormy,Evening,6 hours
+Black Panther (T'Challa),Shuri (Shuri),Okoye (Okoye),M'Baku (M'Baku),Wakanda,Erik Killmonger (N'Jadaka),Victory,Sunny,Afternoon,4 hours
+Thor (Thor Odinson),Loki (Loki Laufeyson),Valkyrie (Brunnhilde),Heimdall (Heimdall),Asgard,Hela,Defeat,Cloudy,Evening,5 hours
+Spider-Man (Peter Parker),Iron Man (Tony Stark),Doctor Strange (Stephen Strange),Black Panther (T'Challa),New York City,Kingpin,Victory,Clear,Afternoon,3.5 hours
+Captain Marvel (Carol Danvers),Scarlet Witch (Wanda Maximoff),Quicksilver (Pietro Maximoff),Vision (Vision),London,Magneto,Defeat,Rainy,Night,4 hours
+Captain America (Steve Rogers),Winter Soldier (Bucky Barnes),Falcon (Sam Wilson),Scarlet Witch (Wanda Maximoff),Berlin,Hydra,Victory,Sunny,Morning,4 hours
+Thor (Thor Odinson),Valkyrie (Brunnhilde),Hulk (Bruce Banner),Hela (Hela),Asgard,Hela,Defeat,Cloudy,Afternoon,5.5 hours
+Iron Man (Tony Stark),War Machine (James Rhodes),Spider-Man (Peter Parker),Hawkeye (Clint Barton),Tokyo,The Mandarin,Victory,Clear,Evening,3.5 hours
+Captain Marvel (Carol Danvers),Nick Fury (Nick Fury),Maria Hill (Maria Hill),Agent Coulson (Phil Coulson),London,Hydra,Victory,Foggy,Night,4 hours
+Captain America (Steve Rogers),Black Widow (Natasha Romanoff),Ant-Man (Scott Lang),Winter Soldier (Bucky Barnes),Siberia,Red Skull,Defeat,Snowy,Night,5 hours
+Iron Man (Tony Stark),Thor (Thor Odinson),Hulk (Bruce Banner),Black Widow (Natasha Romanoff),Sokovia,Ultron,Victory,Stormy,Evening,6 hours
+Black Panther (T'Challa),Shuri (Shuri),Okoye (Okoye),M'Baku (M'Baku),Wakanda,Erik Killmonger (N'Jadaka),Victory,Sunny,Afternoon,4 hours
+Thor (Thor Odinson),Loki (Loki Laufeyson),Valkyrie (Brunnhilde),Heimdall (Heimdall),Asgard,Hela,Defeat,Cloudy,Evening,5 hours
+Spider-Man (Peter Parker),Iron Man (Tony Stark),Doctor Strange (Stephen Strange),Black Panther (T'Challa),New York City,Kingpin,Victory,Clear,Afternoon,3.5 hours
+Captain Marvel (Carol Danvers),Scarlet Witch (Wanda Maximoff),Quicksilver (Pietro Maximoff),Vision (Vision),London,Magneto,Defeat,Rainy,Night,4 hours
+Captain America (Steve Rogers),Winter Soldier (Bucky Barnes),Falcon (Sam Wilson),Scarlet Witch (Wanda Maximoff),Berlin,Hydra,Victory,Sunny,Morning,4 hours
+Thor (Thor Odinson),Valkyrie (Brunnhilde),Hulk (Bruce Banner),Hela (Hela),Asgard,Hela,Defeat,Cloudy,Afternoon,5.5 hours
+Iron Man (Tony Stark),War Machine (James Rhodes),Spider-Man (Peter Parker),Hawkeye (Clint Barton),Tokyo,The Mandarin,Victory,Clear,Evening,3.5 hours
+Captain Marvel (Carol Danvers),Nick Fury (Nick Fury),Maria Hill (Maria Hill),Agent Coulson (Phil Coulson),London,Hydra,Victory,Foggy,Night,4 hours
+Captain America (Steve Rogers),Black Widow (Natasha Romanoff),Ant-Man (Scott Lang),Winter Soldier (Bucky Barnes),Siberia,Red Skull,Defeat,Snowy,Night,5 hours
+Iron Man (Tony Stark),Thor (Thor Odinson),Hulk (Bruce Banner),Black Widow (Natasha Romanoff),Sokovia,Ultron,Victory,Stormy,Evening,6 hours
+Black Panther (T'Challa),Shuri (Shuri),Okoye (Okoye),M'Baku (M'Baku),Wakanda,Erik Killmonger (N'Jadaka),Victory,Sunny,Afternoon,4 hours
+Thor (Thor Odinson),Loki (Loki Laufeyson),Valkyrie (Brunnhilde),Heimdall (Heimdall),Asgard,Hela,Defeat,Cloudy,Evening,5 hours
+Spider-Man (Peter Parker),Iron Man (Tony Stark),Doctor Strange (Stephen Strange),Black Panther (T'Challa),New York City,Kingpin,Victory,Clear,Afternoon,3.5 hours
+Captain Marvel (Carol Danvers),Scarlet Witch (Wanda Maximoff),Quicksilver (Pietro Maximoff),Vision (Vision),London,Magneto,Defeat,Rainy,Night,4 hours
+Captain America (Steve Rogers),Winter Soldier (Bucky Barnes),Falcon (Sam Wilson),Scarlet Witch (Wanda Maximoff),Berlin,Hydra,Victory,Sunny,Morning,4 hours
+Thor (Thor Odinson),Valkyrie (Brunnhilde),Hulk (Bruce Banner),Hela (Hela),Asgard,Hela,Defeat,Cloudy,Afternoon,5.5 hours
+Iron Man (Tony Stark),War Machine (James Rhodes),Spider-Man (Peter Parker),Hawkeye (Clint Barton),Tokyo,The Mandarin,Victory,Clear,Evening,3.5 hours
+Captain Marvel (Carol Danvers),Nick Fury (Nick Fury),Maria Hill (Maria Hill),Agent Coulson (Phil Coulson),London,Hydra,Victory,Foggy,Night,4 hours
+Captain America (Steve Rogers),Black Widow (Natasha Romanoff),Ant-Man (Scott Lang),Winter Soldier (Bucky Barnes),Siberia,Red Skull,Defeat,Snowy,Night,5 hours
+Iron Man (Tony Stark),Thor (Thor Odinson),Hulk (Bruce Banner),Black Widow (Natasha Romanoff),Sokovia,Ultron,Victory,Stormy,Evening,6 hours
+Black Panther (T'Challa),Shuri (Shuri),Okoye (Okoye),M'Baku (M'Baku),Wakanda,Erik Killmonger (N'Jadaka),Victory,Sunny,Afternoon,4 hours
+Thor (Thor Odinson),Loki (Loki Laufeyson),Valkyrie (Brunnhilde),Heimdall (Heimdall),Asgard,Hela,Defeat,Cloudy,Evening,5 hours
+Spider-Man (Peter Parker),Iron Man (Tony Stark),Doctor Strange (Stephen Strange),Black Panther (T'Challa),New York City,Kingpin,Victory,Clear,Afternoon,3.5 hours
+Captain Marvel (Carol Danvers),Scarlet Witch (Wanda Maximoff),Quicksilver (Pietro Maximoff),Vision (Vision),London,Magneto,Defeat,Rainy,Night,4 hours
+Captain America (Steve Rogers),Winter Soldier (Bucky Barnes),Falcon (Sam Wilson),Scarlet Witch (Wanda Maximoff),Berlin,Hydra,Victory,Sunny,Morning,4 hours
+Thor (Thor Odinson),Valkyrie (Brunnhilde),Hulk (Bruce Banner),Hela (Hela),Asgard,Hela,Defeat,Cloudy,Afternoon,5.5 hours
+Iron Man (Tony Stark),War Machine (James Rhodes),Spider-Man (Peter Parker),Hawkeye (Clint Barton),Tokyo,The Mandarin,Victory,Clear,Evening,3.5 hours
+Captain Marvel (Carol Danvers),Nick Fury (Nick Fury),Maria Hill (Maria Hill),Agent Coulson (Phil Coulson),London,Hydra,Victory,Foggy,Night,4 hours
+Captain America (Steve Rogers),Black Widow (Natasha Romanoff),Ant-Man (Scott Lang),Winter Soldier (Bucky Barnes),Siberia,Red Skull,Defeat,Snowy,Night,5 hours
+Iron Man (Tony Stark),Thor (Thor Odinson),Hulk (Bruce Banner),Black Widow (Natasha Romanoff),Sokovia,Ultron,Victory,Stormy,Evening,6 hours
+Black Panther (T'Challa),Shuri (Shuri),Okoye (Okoye),M'Baku (M'Baku),Wakanda,Erik Killmonger (N'Jadaka),Victory,Sunny,Afternoon,4 hours
+Thor (Thor Odinson),Loki (Loki Laufeyson),Valkyrie (Brunnhilde),Heimdall (Heimdall),Asgard,Hela,Defeat,Cloudy,Evening,5 hours
+Spider-Man (Peter Parker),Iron Man (Tony Stark),Doctor Strange (Stephen Strange),Black Panther (T'Challa),New York City,Kingpin,Victory,Clear,Afternoon,3.5 hours
+Captain Marvel (Carol Danvers),Scarlet Witch (Wanda Maximoff),Quicksilver (Pietro Maximoff),Vision (Vision),London,Magneto,Defeat,Rainy,Night,4 hours
+Captain America (Steve Rogers),Winter Soldier (Bucky Barnes),Falcon (Sam Wilson),Scarlet Witch (Wanda Maximoff),Berlin,Hydra,Victory,Sunny,Morning,4 hours
+Thor (Thor Odinson),Valkyrie (Brunnhilde),Hulk (Bruce Banner),Hela (Hela),Asgard,Hela,Defeat,Cloudy,Afternoon,5.5 hours
+Iron Man (Tony Stark),War Machine (James Rhodes),Spider-Man (Peter Parker),Hawkeye (Clint Barton),Tokyo,The Mandarin,Victory,Clear,Evening,3.5 hours
+Captain Marvel (Carol Danvers),Nick Fury (Nick Fury),Maria Hill (Maria Hill),Agent Coulson (Phil Coulson),London,Hydra,Victory,Foggy,Night,4 hours
+Captain America (Steve Rogers),Black Widow (Natasha Romanoff),Ant-Man (Scott Lang),Winter Soldier (Bucky Barnes),Siberia,Red Skull,Defeat,Snowy,Night,5 hours
+Iron Man (Tony Stark),Thor (Thor Odinson),Hulk (Bruce Banner),Black Widow (Natasha Romanoff),Sokovia,Ultron,Victory,Stormy,Evening,6 hours
+Black Panther (T'Challa),Shuri (Shuri),Okoye (Okoye),M'Baku (M'Baku),Wakanda,Erik Killmonger (N'Jadaka),Victory,Sunny,Afternoon,4 hours
+Thor (Thor Odinson),Loki (Loki Laufeyson),Valkyrie (Brunnhilde),Heimdall (Heimdall),Asgard,Hela,Defeat,Cloudy,Evening,5 hours
+Spider-Man (Peter Parker),Iron Man (Tony Stark),Doctor Strange (Stephen Strange),Black Panther (T'Challa),New York City,Kingpin,Victory,Clear,Afternoon,3.5 hours
+Captain Marvel (Carol Danvers),Scarlet Witch (Wanda Maximoff),Quicksilver (Pietro Maximoff),Vision (Vision),London,Magneto,Defeat,Rainy,Night,4 hours
+Captain America (Steve Rogers),Winter Soldier (Bucky Barnes),Falcon (Sam Wilson),Scarlet Witch (Wanda Maximoff),Berlin,Hydra,Victory,Sunny,Morning,4 hours
+Thor (Thor Odinson),Valkyrie (Brunnhilde),Hulk (Bruce Banner),Hela (Hela),Asgard,Hela,Defeat,Cloudy,Afternoon,5.5 hours
+Iron Man (Tony Stark),War Machine (James Rhodes),Spider-Man (Peter Parker),Hawkeye (Clint Barton),Tokyo,The Mandarin,Victory,Clear,Evening,3.5 hours
+Captain Marvel (Carol Danvers),Nick Fury (Nick Fury),Maria Hill (Maria Hill),Agent Coulson (Phil Coulson),London,Hydra,Victory,Foggy,Night,4 hours
+Captain America (Steve Rogers),Black Widow (Natasha Romanoff),Ant-Man (Scott Lang),Winter Soldier (Bucky Barnes),Siberia,Red Skull,Defeat,Snowy,Night,5 hours
+Iron Man (Tony Stark),Thor (Thor Odinson),Hulk (Bruce Banner),Black Widow (Natasha Romanoff),Sokovia,Ultron,Victory,Stormy,Evening,6 hours
+Black Panther (T'Challa),Shuri (Shuri),Okoye (Okoye),M'Baku (M'Baku),Wakanda,Erik Killmonger (N'Jadaka),Victory,Sunny,Afternoon,4 hours
+Thor (Thor Odinson),Loki (Loki Laufeyson),Valkyrie (Brunnhilde),Heimdall (Heimdall),Asgard,Hela,Defeat,Cloudy,Evening,5 hours
+Spider-Man (Peter Parker),Iron Man (Tony Stark),Doctor Strange (Stephen Strange),Black Panther (T'Challa),New York City,Kingpin,Victory,Clear,Afternoon,3.5 hours

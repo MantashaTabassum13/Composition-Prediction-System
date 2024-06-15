@@ -1,0 +1,71 @@
+Mission ID,Location Type,Team Leader,Avenger,Weakness,Strength,Strategy,Communication,Enemy Team,Casualties,Expenses,Damage Given,Damage Taken,Contribution Scale,Mission Status
+1,Urban,Iron Man (Tony Stark),Iron Man (Tony Stark),Vulnerability to EMPs,Genius intellect,Strategic planning,Encrypted channels,AIM,3,$2,500,000,8,7,9,0
+2,Space,Iron Man (Tony Stark),Iron Man (Tony Stark),Lack of cosmic knowledge,Advanced suit capabilities,Space combat maneuvers,Cosmic frequency comms,Celestial beings,1,$3,500,000,8,4,9,1
+3,Underwater,Iron Man (Tony Stark),Iron Man (Tony Stark),Limited underwater endurance,Genius intellect,Underwater stealth,Underwater radio comms,Underwater rebels,0,$1,800,000,6,3,9,0
+4,Desert,Iron Man (Tony Stark),Iron Man (Tony Stark),Vulnerability to extreme temperatures,Versatile suit functions,Hit-and-run tactics,Earpiece communication,Ten Rings terrorists,2,$1,000,000,6,6,9,0
+5,Arctic,Iron Man (Tony Stark),Iron Man (Tony Stark),Cold weather affecting performance,Tactical genius,Stealth tactics,Morse code via suit lights,Hydra agents,0,$1,200,000,6,3,9,1
+6,Urban,Iron Man (Tony Stark),Iron Man (Tony Stark),Overconfidence,Genius intellect,Tactical planning,Encrypted channels,AIM,2,$2,300,000,8,5,9,0
+7,Cosmic,Iron Man (Tony Stark),Iron Man (Tony Stark),Lack of cosmic knowledge,Advanced suit capabilities,Space combat maneuvers,Cosmic frequency comms,Celestial beings,0,$3,000,000,8,4,9,1
+8,Desert,Iron Man (Tony Stark),Iron Man (Tony Stark),Vulnerability to extreme temperatures,Advanced suit capabilities,Hit-and-run tactics,Earpiece communication,Fire-based villains,0,$1,600,000,6,3,9,1
+9,Arctic,Iron Man (Tony Stark),Iron Man (Tony Stark),Vulnerability to ice-based attacks,Advanced suit capabilities,Adaptability in extreme conditions,Radio signals,Hydra agents,1,$2,300,000,8,7,9,0
+10,Urban,Iron Man (Tony Stark),Iron Man (Tony Stark),Vulnerability to hacking,Genius intellect,Counter-hacking tactics,Encrypted channels,Cyber criminals,0,$2,200,000,8,5,9,1
+11,Urban,Hulk (Bruce Banner),Hulk (Bruce Banner),Anger management issues,Superhuman strength,Unleash rage,Non-verbal cues,Street thugs,0,$500,000,9,3,9,1
+12,Space,Hulk (Bruce Banner),Hulk (Bruce Banner),Isolation from gamma radiation,Limitless strength,Rampage through enemies,Grunts,Cosmic entities,0,$900,000,9,3,9,1
+13,Underwater,Hulk (Bruce Banner),Hulk (Bruce Banner),Limited underwater endurance,Immense strength,Bulldoze enemies,Grunts,Underwater monsters,1,$1,000,000,9,5,9,0
+14,Desert,Hulk (Bruce Banner),Hulk (Bruce Banner),Vulnerability to sonic attacks,Incredible strength,Smash through obstacles,Roars,Military forces,1,$600,000,9,5,9,0
+15,Space,Hulk (Bruce Banner),Hulk (Bruce Banner),Isolation from gamma radiation,Infinite strength,Rampage through foes,Grunts,Alien invaders,0,$900,000,9,3,9,1
+16,Underwater,Hulk (Bruce Banner),Hulk (Bruce Banner),Limited underwater mobility,Immense strength,Bulldoze enemies,Grunts,Underwater monsters,1,$1,000,000,9,5,9,0
+17,Cosmic,Hulk (Bruce Banner),Hulk (Bruce Banner),Lack of cosmic knowledge,Cosmic-level strength,Rampage through enemies,Roars,Celestial beings,0,$1,100,000,9,3,9,1
+18,Desert,Hulk (Bruce Banner),Hulk (Bruce Banner),Vulnerability to extreme heat,Unstoppable strength,Smash enemies,Grunts,Sand-based villains,0,$1,200,000,9,5,9,1
+19,Urban,Hulk (Bruce Banner),Hulk (Bruce Banner),Vulnerability to gas attacks,Immense strength,Overwhelm foes,Grunts,Criminal syndicates,1,$1,300,000,9,7,9,0
+20,Space,Hulk (Bruce Banner),Hulk (Bruce Banner),Isolation from gamma radiation,Infinite strength,Rampage through foes,Grunts,Alien invaders,0,$1,400,000,9,3,9,1
+21,Urban,Thor (Thor Odinson),Thor (Thor Odinson),Vulnerability to magic,Godly strength,Lightning strikes,Verbal commands,Frost giants,1,$1,000,000,9,7,9,0
+22,Space,Thor (Thor Odinson),Thor (Thor Odinson),Limited oxygen supply,Godly strength,Combat prowess,Verbal commands,Skrull invaders,0,$1,500,000,9,7,9,1
+23,Underwater,Thor (Thor Odinson),Thor (Thor Odinson),Limited underwater mobility,Godly strength,Underwater combat,Verbal commands,Atlantean rebels,1,$1,200,000,9,5,9,0
+24,Desert,Thor (Thor Odinson),Thor (Thor Odinson),Vulnerability to extreme heat,Godly strength,Combat expertise,Verbal commands,Desert bandits,2,$800,000,9,5,9,0
+25,Arctic,Thor (Thor Odinson),Thor (Thor Odinson),Cold weather affecting performance,Godly strength,Frost resistance,Verbal commands,Ice giants,0,$900,000,9,3,9,1
+26,Urban,Thor (Thor Odinson),Thor (Thor Odinson),Overconfidence,Godly strength,Strategic combat,Verbal commands,Criminal syndicates,1,$1,600,000,9,5,9,0
+27,Cosmic,Thor (Thor Odinson),Thor (Thor Odinson),Lack of cosmic knowledge,Godly strength,Cosmic combat skills,Verbal commands,Cosmic entities,0,$2,000,000,9,3,9,1
+28,Desert,Thor (Thor Odinson),Thor (Thor Odinson),Vulnerability to extreme temperatures,Godly strength,Desert combat expertise,Verbal commands,Sand-based villains,0,$1,400,000,9,5,9,1
+29,Arctic,Thor (Thor Odinson),Thor (Thor Odinson),Cold weather affecting performance,Godly strength,Frost resistance,Verbal commands,Hydra agents,0,$1,500,000,9,3,9,1
+30,Urban,Thor (Thor Odinson),Thor (Thor Odinson),Vulnerability to mortal wounds,Godly strength,Strategic combat,Verbal commands,Criminal syndicates,1,$1,700,000,9,5,9,0
+31,Urban,Black Widow (Natasha Romanoff),Black Widow (Natasha Romanoff),Trust issues,Master spy techniques,Infiltration and stealth,Hand signals,Hydra agents,1,$800,000,7,2,9,0
+32,Space,Black Widow (Natasha Romanoff),Black Widow (Natasha Romanoff),Vulnerability to cosmic threats,Expert martial arts,Quick thinking,Intercepted signals,Cosmic entities,0,$1,200,000,7,3,9,1
+33,Underwater,Black Widow (Natasha Romanoff),Black Widow (Natasha Romanoff),Limited underwater endurance,Stealth and agility,Underwater stealth,Hand signals,Underwater creatures,1,$1,000,000,7,4,9,0
+34,Desert,Black Widow (Natasha Romanoff),Black Widow (Natasha Romanoff),Vulnerability to extreme temperatures,Master of espionage,Disguise and deception,Earpiece communication,Terrorist cells,2,$700,000,7,5,9,0
+35,Arctic,Black Widow (Natasha Romanoff),Black Widow (Natasha Romanoff),Cold weather affecting performance,Expert hand-to-hand combat,Quick thinking,Morse code via radio,Hydra agents,0,$600,000,7,3,9,1
+36,Urban,Black Widow (Natasha Romanoff),Black Widow (Natasha Romanoff),Overemphasis on solo operations,Master of espionage,Infiltration and stealth,Hand signals,Criminal syndicates,1,$900,000,7,4,9,0
+37,Cosmic,Black Widow (Natasha Romanoff),Black Widow (Natasha Romanoff),Lack of cosmic knowledge,Expert martial arts,Quick thinking,Intercepted signals,Cosmic entities,0,$1,300,000,7,3,9,1
+38,Desert,Black Widow (Natasha Romanoff),Black Widow (Natasha Romanoff),Vulnerability to extreme temperatures,Master of espionage,Disguise and deception,Earpiece communication,Terrorist cells,0,$800,000,7,5,9,1
+39,Arctic,Black Widow (Natasha Romanoff),Black Widow (Natasha Romanoff),Cold weather affecting performance,Expert hand-to-hand combat,Quick thinking,Morse code via radio,Hydra agents,0,$700,000,7,3,9,1
+40,Urban,Black Widow (Natasha Romanoff),Black Widow (Natasha Romanoff),Vulnerability to trust issues,Master of espionage,Infiltration and stealth,Hand signals,Criminal syndicates,1,$1,000,000,7,4,9,0
+41,Urban,Hawkeye (Clint Barton),Hawkeye (Clint Barton),Limited close combat capabilities,Expert archery skills,Precision shots,Morse code via arrows,Hydra agents,0,$700,000,8,3,9,1
+42,Space,Hawkeye (Clint Barton),Hawkeye (Clint Barton),Lack of space combat experience,Master archer,Adaptable strategy,Visual signals,Alien invaders,0,$1,000,000,8,2,9,1
+43,Underwater,Hawkeye (Clint Barton),Hawkeye (Clint Barton),Limited underwater mobility,Expert marksmanship,Stealth and precision,Hand signals,Underwater creatures,1,$800,000,8,4,9,0
+44,Desert,Hawkeye (Clint Barton),Hawkeye (Clint Barton),Vulnerability to extreme temperatures,Precision archery,Adaptable strategy,Earpiece communication,Terrorist cells,1,$500,000,8,5,9,0
+45,Arctic,Hawkeye (Clint Barton),Hawkeye (Clint Barton),Cold weather affecting performance,Expert marksman,Stealth and precision,Morse code via signals,Hydra agents,0,$400,000,8,2,9,1
+46,Urban,Hawkeye (Clint Barton),Hawkeye (Clint Barton),Overconfidence,Expert archer,Adaptable strategy,Visual signals,Criminal syndicates,1,$700,000,8,3,9,0
+47,Cosmic,Hawkeye (Clint Barton),Hawkeye (Clint Barton),Lack of cosmic knowledge,Master archer,Adaptable strategy,Visual signals,Cosmic entities,0,$1,000,000,8,2,9,1
+48,Desert,Hawkeye (Clint Barton),Hawkeye (Clint Barton),Vulnerability to extreme temperatures,Precision archery,Adaptable strategy,Earpiece communication,Terrorist cells,0,$600,000,8,5,9,1
+49,Arctic,Hawkeye (Clint Barton),Hawkeye (Clint Barton),Cold weather affecting performance,Expert marksman,Stealth and precision,Morse code via signals,Hydra agents,0,$500,000,8,2,9,1
+50,Urban,Hawkeye (Clint Barton),Hawkeye (Clint Barton),Vulnerability to trust issues,Expert archer,Adaptable strategy,Visual signals,Criminal syndicates,1,$800,000,8,3,9,0
+51,Urban,Ant-Man (Scott Lang),Ant-Man (Scott Lang),Vulnerability to shrinking tech malfunctions,Size manipulation,Stealth and infiltration,Subvocal commands,Criminal syndicates,1,$800,000,7,4,9,0
+52,Space,Ant-Man (Scott Lang),Ant-Man (Scott Lang),Lack of space combat experience,Shrinking abilities,Tactical planning,Subvocal commands,Alien invaders,0,$1,200,000,7,3,9,1
+53,Underwater,Ant-Man (Scott Lang),Ant-Man (Scott Lang),Limited underwater mobility,Size manipulation,Underwater stealth,Subvocal commands,Underwater creatures,1,$1,000,000,7,5,9,0
+54,Desert,Ant-Man (Scott Lang),Ant-Man (Scott Lang),Vulnerability to extreme temperatures,Stealth abilities,Hit-and-run tactics,Earpiece communication,Terrorist cells,1,$700,000,7,5,9,0
+55,Arctic,Ant-Man (Scott Lang),Ant-Man (Scott Lang),Cold weather affecting performance,Size manipulation,Stealth and infiltration,Subvocal commands,Hydra agents,0,$600,000,7,3,9,1
+56,Urban,Ant-Man (Scott Lang),Ant-Man (Scott Lang),Overconfidence,Shrinking abilities,Tactical planning,Subvocal commands,Criminal syndicates,1,$900,000,7,4,9,0
+57,Cosmic,Ant-Man (Scott Lang),Ant-Man (Scott Lang),Lack of cosmic knowledge,Size manipulation,Cosmic combat tactics,Subvocal commands,Cosmic entities,0,$1,300,000,7,3,9,1
+58,Desert,Ant-Man (Scott Lang),Ant-Man (Scott Lang),Vulnerability to extreme temperatures,Stealth abilities,Hit-and-run tactics,Earpiece communication,Terrorist cells,0,$800,000,7,5,9,1
+59,Arctic,Ant-Man (Scott Lang),Ant-Man (Scott Lang),Cold weather affecting performance,Size manipulation,Stealth and infiltration,Subvocal commands,Hydra agents,0,$700,000,7,3,9,1
+60,Urban,Ant-Man (Scott Lang),Ant-Man (Scott Lang),Vulnerability to trust issues,Shrinking abilities,Tactical planning,Subvocal commands,Criminal syndicates,1,$1,000,000,7,4,9,0
+61,Urban,Spider-Man (Peter Parker),Spider-Man (Peter Parker),Moral dilemmas,Enhanced agility and strength,Web-slinging and acrobatics,Verbal commands,Street criminals,1,$900,000,8,3,9,0
+62,Space,Spider-Man (Peter Parker),Spider-Man (Peter Parker),Lack of space combat experience,Enhanced reflexes and strength,Agile maneuvers,Verbal commands,Alien invaders,0,$1,300,000,8,2,9,1
+63,Underwater,Spider-Man (Peter Parker),Spider-Man (Peter Parker),Limited underwater endurance,Enhanced agility and strength,Underwater acrobatics,Verbal commands,Underwater creatures,1,$1,100,000,8,4,9,0
+64,Desert,Spider-Man (Peter Parker),Spider-Man (Peter Parker),Vulnerability to extreme temperatures,Enhanced combat abilities,Hit-and-run tactics,Earpiece communication,Terrorist cells,1,$800,000,8,5,9,0
+65,Arctic,Spider-Man (Peter Parker),Spider-Man (Peter Parker),Cold weather affecting performance,Enhanced agility and strength,Stealth and speed,Morse code via signals,Hydra agents,0,$700,000,8,3,9,1
+66,Urban,Spider-Man (Peter Parker),Spider-Man (Peter Parker),Overemphasis on personal issues,Enhanced reflexes and strength,Agile maneuvers,Verbal commands,Criminal syndicates,1,$1,000,000,8,3,9,0
+67,Cosmic,Spider-Man (Peter Parker),Spider-Man (Peter Parker),Lack of cosmic knowledge,Enhanced combat abilities,Cosmic combat skills,Verbal commands,Cosmic entities,0,$1,400,000,8,2,9,1
+68,Desert,Spider-Man (Peter Parker),Spider-Man (Peter Parker),Vulnerability to extreme temperatures,Enhanced combat abilities,Hit-and-run tactics,Earpiece communication,Terrorist cells,0,$900,000,8,5,9,1
+69,Arctic,Spider-Man (Peter Parker),Spider-Man (Peter Parker),Cold weather affecting performance,Enhanced agility and strength,Stealth and speed,Morse code via signals,Hydra agents,0,$800,000,8,3,9,1
+70,Urban,Spider-Man (Peter Parker),Spider-Man (Peter Parker),Vulnerability to trust issues,Enhanced reflexes and strength,Agile maneuvers,Verbal commands,Criminal syndicates,1,$1,100,000,8,3,9,0

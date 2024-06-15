@@ -1,0 +1,721 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        /* 1.1.general-setting-pages *************************/
+/****************************************************/
+:root {
+	--pr-color: #fff;
+	--second-color: #0a0a0a;
+	--cubicbz: cubic-bezier(.9, 0, .1, 1);
+	--fz-big: 60px;
+}
+
+* {
+	box-sizing: border-box;
+	font-family: 'Syne', sans-serif;
+	font-weight: 800;
+	margin: 0;
+	padding: 0;
+	font-feature-settings: 'pnum' on, 'lnum' on;
+}
+
+body {
+	background: var(--second-color);
+}
+
+/******************************************/
+section {
+	padding-top: 150px;
+	padding-bottom: 50px;
+}
+
+.wrapp {
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+	z-index: 1;
+}
+
+.content {
+	width: 100%;
+	padding: 0 70px;
+}
+
+.char {
+	display: inline-block;
+}
+
+/* Paralax Effect On GSAP **********************************/
+/* header ********/
+.header {
+	position: relative;
+	display: flex;
+	padding: 0 70px;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+	height: 100vh;
+}
+
+.header__marq {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+}
+
+.header__marq {
+	width: 100%;
+	height: auto;
+	background: #171717;
+	overflow: hidden;
+}
+
+.header__marq-wrapp {
+	display: flex;
+	width: 100%;
+	height: auto;
+	padding: 8px 70px;
+}
+
+.header__marq-txt {
+	position: relative;
+	flex: 0 0 auto;
+	display: inline-block;
+	padding-right: 55px;
+	margin-right: 15px;
+	text-transform: uppercase;
+	color: var(--pr-color);
+	color: #9e9e9e;
+	font-size: 35px;
+}
+
+.header__marq-star {
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	right: 0;
+}
+
+.header__marq-star img {
+	display: block;
+	width: 100%;
+	height: 100%;
+}
+
+.title {
+	position: relative;
+	margin: 0;
+	font-size: 85px;
+	text-align: center;
+	color: var(--pr-color);
+	text-transform: uppercase;
+	mix-blend-mode: difference;
+	z-index: 2;
+}
+
+.title_paralax {
+	display: inline-block;
+	will-change: transform;
+}
+
+.title .stroke {
+	display: inline-block;
+	color: transparent;
+	-webkit-text-stroke: 1px var(--pr-color);
+}
+
+.header__img {
+	position: absolute;
+	width: 45%;
+	height: 100%;
+	top: 0;
+	right: 100px;
+	clip-path: polygon(0% 0%, 0% 0%, 0% 100%, 0% 100%);
+	overflow: hidden;
+}
+
+.header__img img {
+	display: block;
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+
+.section-title {
+	position: relative;
+	margin: 0;
+	margin-bottom: 60px;
+	line-height: .8;
+	font-size: 70px;
+	text-align: center;
+	color: var(--pr-color);
+	text-transform: uppercase;
+}
+
+.section-title .stroke {
+	color: transparent;
+	-webkit-text-stroke: 1px var(--pr-color);
+}
+
+.section-title__square {
+	position: absolute;
+	display: inline-block;
+	width: 130px;
+	height: 130px;
+	border: 1px solid #4b4b4b;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	z-index: -1;
+}
+
+/* about ********/
+.about .section-title {
+	text-align: left;
+}
+
+.about__wrapp {
+	display: flex;
+	justify-content: space-between;
+}
+
+.about__img,
+.about__txt {
+	width: calc(50% - 35px);
+	height: auto;
+}
+
+.about__txt {
+	padding-right: 70px;
+}
+
+.about__p {
+	line-height: 1.4;
+	font-size: 20px;
+	color: #4b4b4b;
+}
+
+.about__img {
+	height: 100vh;
+	overflow: hidden;
+}
+
+.about__img img {
+	display: block;
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+
+/* benefits ********/
+.benefits__list {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	gap: 40px;
+	width: 100%;
+	height: auto;
+}
+
+.benefits__item {
+	list-style: none;
+	width: calc(33.33% - 27px);
+}
+
+.benefits__num {
+	display: inline-block;
+	font-size: 60px;
+	color: transparent;
+	-webkit-text-stroke: 1px var(--pr-color);
+}
+
+.benefits__p {
+	font-size: 20px;
+	color: #4b4b4b;
+}
+
+/* work ********/
+.work {
+	padding-top: 150px;
+}
+
+.work__wrapp {
+	display: flex;
+	flex-wrap: wrap;
+	row-gap: 120px;
+	justify-content: space-between;
+	padding: 0 120px;
+}
+
+.work__item {
+	position: relative;
+	width: calc(50% - 60px);
+	height: 100vh;
+}
+
+.work__item-num {
+	position: absolute;
+	display: inline-block;
+	font-size: 70px;
+	color: var(--pr-color);
+	mix-blend-mode: difference;
+	z-index: 2;
+}
+
+.work__item-img {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+}
+
+.work__item-img img {
+	display: block;
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+
+/* serv ********/
+.serv__item {
+	position: relative;
+	padding: 40px 0;
+	border-bottom: 1px solid #2f2e2e;
+}
+
+.serv__item-arrow {
+	position: absolute;
+	display: inline-block;
+	width: 55px;
+	height: 55px;
+	top: 50%;
+	right: 0;
+	transform: translateY(-50%);
+}
+
+.serv__item-arrow img {
+	display: block;
+	width: 100%;
+	height: 100%;
+	object-fit: contain;
+	transform: rotate(180deg);
+}
+
+.serv__item-txt {
+	font-size: 50px;
+	color: #4b4b4b;
+	text-transform: uppercase;
+}
+
+/* footer ********/
+.footer {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+}
+
+.footer__div {
+	font-size: 70px;
+	letter-spacing: 15px;
+	color: var(--pr-color);
+	text-transform: uppercase;
+}
+
+.footer__div span {
+	display: inline-block;
+}
+    </style>
+  
+</head>
+<body>
+    <!-- div .wrapp -->
+	<div id="luxy" class="wrapp">
+
+		<!-- div .header -->
+		<header class="header">
+			<h1 class="title" data-splitting><span class="title_paralax">Avenger Assemble</span><span class="stroke">Marvel</span></h1>
+			<div class="header__img">
+				<img src="./aa0.jpg" alt="1">
+			</div>
+			<div class="header__marq">
+				<div class="header__marq-wrapp">
+					<span class="header__marq-txt">Unite | Fight | Save | Conquer
+						<span class="header__marq-star">
+							<img src="https://dmitrinaumov.github.io/Paralax-effect-with-gsap-scrolltrigger/img/star.svg" alt="">
+						</span>
+					</span>
+					<span class="header__marq-txt">Unite | Fight | Save | Conquer
+						<span class="header__marq-star">
+							<img src="https://dmitrinaumov.github.io/Paralax-effect-with-gsap-scrolltrigger/img/star.svg" alt="">
+						</span>
+					</span>
+					<span class="header__marq-txt">Unite | Fight | Save | Conquer
+						<span class="header__marq-star">
+							<img src="https://dmitrinaumov.github.io/Paralax-effect-with-gsap-scrolltrigger/img/star.svg" alt="">
+						</span>
+					</span>
+					<span class="header__marq-txt">Unite | Fight | Save | Conquer
+						<span class="header__marq-star">
+							<img src="https://dmitrinaumov.github.io/Paralax-effect-with-gsap-scrolltrigger/img/star.svg" alt="">
+						</span>
+					</span>
+				</div>
+			</div>
+		</header>
+
+		<main class="main">
+
+			<!-- div .about -->
+			<section class="about">
+				<div class="about__wrapp">
+					<div class="about__img">
+						<img src="./aa1.jpg" alt="2">
+					</div>
+					<div class="about__txt">
+						<h2 class="section-title">abo<span class="stroke">ut</span>
+							<span class="section-title__square"></span>
+						</h2>
+						<p class="about__p">In the wake of a devastating cosmic threat, the Avengers face their greatest challenge yet: to unite fractured heroes and factions across the universe against a common enemy. With the fabric of reality at stake, they embark on a perilous journey, forging unlikely alliances and confronting their own inner conflicts. As they battle across galaxies, they must overcome their differences and stand together as Earth's mightiest heroes to save all of existence.</p>
+					</div>
+				</div>
+			</section>
+
+			<!-- div .benefits -->
+			<!-- <section class="benefits">
+				<div class="content">
+					<h2 class="section-title">benef<span class="stroke">its</span>
+						<span class="section-title__square"></span>
+					</h2>
+
+					<ul class="benefits__list">
+						<li class="benefits__item">
+							<span class="benefits__num" data-speed="-200">/01</span>
+							<p class="benefits__p">Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis, quas.
+							</p>
+						</li>
+						<li class="benefits__item">
+							<span class="benefits__num" data-speed="-150">/02</span>
+							<p class="benefits__p">Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis, quas.
+							</p>
+						</li>
+						<li class="benefits__item">
+							<span class="benefits__num" data-speed="-150">/03</span>
+							<p class="benefits__p">Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis, quas.
+							</p>
+						</li>
+						<li class="benefits__item">
+							<span class="benefits__num" data-speed="-150">/04</span>
+							<p class="benefits__p">Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis, quas.
+							</p>
+						</li>
+						<li class="benefits__item">
+							<span class="benefits__num" data-speed="-110">/05</span>
+							<p class="benefits__p">Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis, quas.
+							</p>
+						</li>
+						<li class="benefits__item">
+							<span class="benefits__num" data-speed="-200">/06</span>
+							<p class="benefits__p">Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis, quas.
+							</p>
+						</li>
+					</ul>
+				</div>
+			</section> -->
+
+			<!-- div .work -->
+			<section class="work">
+				<div class="content">
+					<h2 class="section-title">Aven<span class="stroke">gerss</span>
+						<span class="section-title__square"></span>
+					</h2>
+				</div>
+
+				<div class="work__wrapp">
+					<div class="work__item" data-speed="-300">
+						<span class="work__item-num" data-speed="-1000">/001</span>
+						<div class="work__item-img">
+							<img src="./a2.jpg" alt="3">
+						</div>
+					</div>
+					<div class="work__item" data-speed="-600">
+						<span class="work__item-num" data-speed="-500">/002</span>
+						<div class="work__item-img">
+							<img src="./a3.jpg" alt="4">
+						</div>
+					</div>
+					<div class="work__item" data-speed="-700">
+						<span class="work__item-num" data-speed="-700">/003</span>
+						<div class="work__item-img">
+							<img src="./a4.jpg" alt="5">
+						</div>
+					</div>
+					<div class="work__item" data-speed="-400">
+						<span class="work__item-num" data-speed="-200">/004</span>
+						<div class="work__item-img">
+							<img src="./a5.jpg" alt="6">
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<!-- div .serv -->
+			<section class="serv">
+				<div class="content">
+					<h2 class="section-title">Missi<span class="stroke">ons</span>
+						<span class="section-title__square"></span>
+					</h2>
+
+					<div class="serv__list">
+						<div class="serv__item">
+							<span class="serv__item-arrow" data-speed="500">
+								<img src="https://dmitrinaumov.github.io/Paralax-effect-with-gsap-scrolltrigger/img/arrow.svg" alt="">
+							</span>
+							<div class="serv__item-txt">
+								<span class="serv__item-text">/Missions1</span>
+							</div>
+						</div>
+						<div class="serv__item">
+							<span class="serv__item-arrow" data-speed="400">
+								<img src="https://dmitrinaumov.github.io/Paralax-effect-with-gsap-scrolltrigger/img/arrow.svg" alt="">
+							</span>
+							<div class="serv__item-txt">
+								<span class="serv__item-text">/Missions2</span>
+							</div>
+						</div>
+						<div class="serv__item">
+							<span class="serv__item-arrow" data-speed="800">
+								<img src="https://dmitrinaumov.github.io/Paralax-effect-with-gsap-scrolltrigger/img/arrow.svg" alt="">
+							</span>
+							<div class="serv__item-txt">
+								<span class="serv__item-text">/Missions3</span>
+							</div>
+						</div>
+						<div class="serv__item">
+							<span class="serv__item-arrow" data-speed="600">
+								<img src="https://dmitrinaumov.github.io/Paralax-effect-with-gsap-scrolltrigger/img/arrow.svg" alt="">
+							</span>
+							<div class="serv__item-txt">
+								<span class="serv__item-text">/Missions4</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+		</main>
+
+		<!-- div .footer -->
+		<footer class="footer">
+			<div class="footer__div">
+				<span data-speed="-300">A</span>
+				<span data-speed="100">V</span>
+				<span data-speed="300">E</span>
+				<span data-speed="-300">N</span>
+				<span data-speed="350">G</span>
+				<span data-speed="200">E</span>
+				<span data-speed="-310">R</span>
+				<span data-speed="200">S</span>
+				<span data-speed="200"> </span>
+			</div>
+			<div class="footer__div" style="color: rgb(154, 0, 0);">
+				<span data-speed="-300">A</span>
+				<span data-speed="100">S</span>
+				<span data-speed="300">S</span>
+				<span data-speed="-300">E</span>
+				<span data-speed="350">M</span>
+				<span data-speed="200">B</span>
+				<span data-speed="-310">L</span>
+				<span data-speed="200">E</span>
+			</div>
+		</footer>
+	</div>
+	<script>
+        document.addEventListener("DOMContentLoaded", function () {
+
+	'use strict';
+
+
+
+	Splitting();
+	luxy.init();
+	gsap.registerPlugin(ScrollTrigger);
+
+	const gTl = gsap.timeline();
+	gTl.from(".title .char", 1, { opacity: 0, yPercent: 130, stagger: 0.06, ease: "back.out" });
+	gTl.to(".header__img", 2, { clipPath: "polygon(0% 0%, 100% 0%, 100% 100%, 0% 100%)", scale: 1, ease: "expo.out" }, "-=1");
+	gTl.from(".header__marq", 2, { opacity: 0, yPercent: 100, ease: "expo.out" }, "-=1.5");
+
+	const gsapSq = gsap.utils.toArray('.section-title__square');
+	gsapSq.forEach((gSq, i) => {
+		const rotat = gsap.from(gSq, 3, { rotation: 720 });
+		ScrollTrigger.create({
+			trigger: gSq,
+			animation: rotat,
+			start: 'top bottom',
+			scrub: 1.9
+		});
+	});
+
+
+	//header
+	function header() {
+		gsap.to('.title_paralax', {
+			scrollTrigger: {
+				trigger: '.header',
+				start: 'top top',
+				scrub: 1.9
+			},
+			yPercent: -150
+		})
+		gsap.to('.header .stroke', {
+			scrollTrigger: {
+				trigger: '.header',
+				start: 'top top',
+				scrub: 1.9
+			},
+			xPercent: 50
+		})
+		gsap.to('.header__img', {
+			scrollTrigger: {
+				trigger: '.header',
+				start: 'top top',
+				scrub: 1.9
+			},
+			xPercent: -70
+		})
+		gsap.to('.header__img img', {
+			scrollTrigger: {
+				trigger: '.header',
+				start: 'top top',
+				scrub: 1.9
+			},
+			scale: 1.3
+		})
+		gsap.to('.header__marq-wrapp', {
+			scrollTrigger: {
+				trigger: '.header',
+				start: 'top top',
+				scrub: 1.9
+			},
+			xPercent: -50
+		})
+		gsap.to('.header__marq-star img', {
+			scrollTrigger: {
+				trigger: '.header',
+				start: 'top top',
+				scrub: 1.9
+			},
+			rotate: -720
+		})
+	}
+	header();
+
+
+	//about
+	function about() {
+		gsap.from('.about__img', {
+			scrollTrigger: {
+				trigger: '.about',
+				start: 'top bottom',
+				scrub: 1.9
+			},
+			yPercent: 80
+		})
+		gsap.from('.about__img img', {
+			scrollTrigger: {
+				trigger: '.about',
+				start: 'top bottom',
+				scrub: 1.9
+			},
+			scale: 1.6
+		})
+		gsap.to('.about__txt', {
+			scrollTrigger: {
+				trigger: '.about__wrapp',
+				start: 'top bottom',
+				scrub: 1.9
+			},
+			yPercent: 50
+		})
+	}
+	about();
+
+
+	//benefits
+	function benefits() {
+		gsap.from('.benefits__num', {
+			x: (i, el) => (1 - parseFloat(el.getAttribute('data-speed'))),
+			scrollTrigger: {
+				trigger: '.benefits__list',
+				start: 'top bottom',
+				scrub: 1.9
+			}
+		})
+	}
+	benefits();
+
+
+	//portfolio
+	function portfolio() {
+		gsap.from('.work__item, .work__item-num', {
+			y: (i, el) => (1 - parseFloat(el.getAttribute('data-speed'))),
+			scrollTrigger: {
+				trigger: '.work',
+				start: 'top bottom',
+				scrub: 1.9
+			}
+		})
+		gsap.from('.work__item-img img', {
+			scale: 1.6,
+			scrollTrigger: {
+				trigger: '.work__wrapp',
+				start: 'top bottom',
+				scrub: 1.9
+			}
+		})
+	}
+	portfolio();
+
+
+	//serv
+	function serv() {
+		gsap.from('.serv__item-arrow', {
+			x: (i, el) => (1 - parseFloat(el.getAttribute('data-speed'))),
+			scrollTrigger: {
+				trigger: '.serv__list',
+				start: 'top bottom',
+				scrub: 1.9
+			}
+		})
+	}
+	serv();
+
+
+	//footer
+	function footer() {
+		gsap.from('.footer__div span', {
+			y: (i, el) => (1 - parseFloat(el.getAttribute('data-speed'))),
+			opacity: 0,
+			scrollTrigger: {
+				trigger: '.footer',
+				start: 'top bottom',
+				end: 'bottom bottom',
+				scrub: 1.9
+			}
+		})
+	}
+	footer();
+});
+    </script>>
+<script src="https://dmitrinaumov.github.io/Paralax-effect-with-gsap-scrolltrigger/js/splitting.min.js"></script>
+<script src="https://dmitrinaumov.github.io/Paralax-effect-with-gsap-scrolltrigger/js/luxy.js"></script>
+<script src="https://unpkg.co/gsap@3/dist/gsap.min.js"></script>
+<script src="https://unpkg.com/gsap@3/dist/ScrollTrigger.min.js"></script>
+  <script src="https://cdpn.io/cpe/boomboom/pen.js?key=pen.js-6d27079a-db63-0d9f-e776-eadb084dbf03" crossorigin=""></script>
+
+</body>
+</html>
